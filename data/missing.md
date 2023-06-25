@@ -31227,7 +31227,6 @@
 * [The Cavern](https://www.pcgamingwiki.com/wiki/?curid=57347)
 * [The Cellar](https://www.pcgamingwiki.com/wiki/?curid=128288)
 * [The Cells](https://www.pcgamingwiki.com/wiki/?curid=121405)
-* [The Centennial Case: A Shijima Story](https://www.pcgamingwiki.com/wiki/?curid=177644)
 * [The Cerberus Project: Horde Arena FPS](https://www.pcgamingwiki.com/wiki/?curid=64335)
 * [The Chains That Bound Me](https://www.pcgamingwiki.com/wiki/?curid=151633)
 * [The Challenge](https://www.pcgamingwiki.com/wiki/?curid=51155)
