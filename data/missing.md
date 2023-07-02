@@ -13952,7 +13952,6 @@
 * [Harmless Skeleton](https://www.pcgamingwiki.com/wiki/?curid=82002)
 * [Harmonium](https://www.pcgamingwiki.com/wiki/?curid=88093)
 * [Harmony of the bravest](https://www.pcgamingwiki.com/wiki/?curid=95415)
-* [Harmony: The Fall of Reverie](https://www.pcgamingwiki.com/wiki/?curid=185071)
 * [HarmonyTD](https://www.pcgamingwiki.com/wiki/?curid=96459)
 * [Harold](https://www.pcgamingwiki.com/wiki/?curid=48727)
 * [Harold Halibut](https://www.pcgamingwiki.com/wiki/?curid=113778)
