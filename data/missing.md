@@ -26902,7 +26902,6 @@
 * [Senity](https://www.pcgamingwiki.com/wiki/?curid=130795)
 * [Senna and the Forest](https://www.pcgamingwiki.com/wiki/?curid=144311)
 * [Senpai Teaches Me Japanese: Part 1](https://www.pcgamingwiki.com/wiki/?curid=129865)
-* [Senran Kagura Burst Re:Newal](https://www.pcgamingwiki.com/wiki/?curid=125815)
 * [Senran Meisuishu Tactics](https://www.pcgamingwiki.com/wiki/?curid=81368)
 * [Sense of the Devil](https://www.pcgamingwiki.com/wiki/?curid=69878)
 * [SENSEs: Midnight](https://www.pcgamingwiki.com/wiki/?curid=179120)
