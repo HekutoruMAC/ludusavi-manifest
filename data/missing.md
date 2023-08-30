@@ -7708,7 +7708,6 @@
 * [Daydream Blue](https://www.pcgamingwiki.com/wiki/?curid=56963)
 * [Daydream: Forgotten Sorrow](https://www.pcgamingwiki.com/wiki/?curid=185753)
 * [Daydreamer](https://www.pcgamingwiki.com/wiki/?curid=46787)
-* [Daymare: 1994 Sandcastle](https://www.pcgamingwiki.com/wiki/?curid=177094)
 * [Days Gone By](https://www.pcgamingwiki.com/wiki/?curid=153420)
 * [Days of a Princess](https://www.pcgamingwiki.com/wiki/?curid=89200)
 * [Days of Purgatory](https://www.pcgamingwiki.com/wiki/?curid=78709)
