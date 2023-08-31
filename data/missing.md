@@ -8817,7 +8817,6 @@
 * [Dominari Tournament](https://www.pcgamingwiki.com/wiki/?curid=75143)
 * [Dominatrix Simulator: Threshold](https://www.pcgamingwiki.com/wiki/?curid=146042)
 * [Dominions 3: The Awakening](https://www.pcgamingwiki.com/wiki/?curid=36460)
-* [Dominions 5: Warriors of the Faith](https://www.pcgamingwiki.com/wiki/?curid=76235)
 * [Dominions II: The Ascension Wars](https://www.pcgamingwiki.com/wiki/?curid=177304)
 * [Dominions: Priests, Prophets & Pretenders](https://www.pcgamingwiki.com/wiki/?curid=177299)
 * [Dominique Pamplemousse](https://www.pcgamingwiki.com/wiki/?curid=50586)
