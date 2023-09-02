@@ -30221,6 +30221,8 @@
 * [Sweater? OK!](https://www.pcgamingwiki.com/wiki/?curid=55017)
 * [SWEATER? OK! - The Dilogy](https://www.pcgamingwiki.com/wiki/?curid=153758)
 * [Sweaty Palms](https://www.pcgamingwiki.com/wiki/?curid=70485)
+* [Swedish Touring Car Championship](https://www.pcgamingwiki.com/wiki/?curid=189494)
+* [Swedish Touring Car Championship 2](https://www.pcgamingwiki.com/wiki/?curid=189499)
 * [Sweep'n'Sweep](https://www.pcgamingwiki.com/wiki/?curid=89409)
 * [Sweeper Zero](https://www.pcgamingwiki.com/wiki/?curid=108226)
 * [SweeperVR](https://www.pcgamingwiki.com/wiki/?curid=89272)
