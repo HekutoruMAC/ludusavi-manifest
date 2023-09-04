@@ -6349,6 +6349,7 @@
 * [Commander Blood](https://www.pcgamingwiki.com/wiki/?curid=169067)
 * [Commander Cool 2](https://www.pcgamingwiki.com/wiki/?curid=38045)
 * [Commander Keen in Aliens Ate My Baby Sitter!](https://www.pcgamingwiki.com/wiki/?curid=166622)
+* [Commander Keen: Keen Dreams Definitive Edition](https://www.pcgamingwiki.com/wiki/?curid=189547)
 * [Commander: The Great War](https://www.pcgamingwiki.com/wiki/?curid=49845)
 * [Commanders of Valor](https://www.pcgamingwiki.com/wiki/?curid=154293)
 * [Commando](https://www.pcgamingwiki.com/wiki/?curid=176113)
