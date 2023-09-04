@@ -8444,6 +8444,7 @@
 * [Dice Tower Defense](https://www.pcgamingwiki.com/wiki/?curid=68996)
 * [Dice Unique Rules](https://www.pcgamingwiki.com/wiki/?curid=70363)
 * [Dicetiny: The Lord of the Dice](https://www.pcgamingwiki.com/wiki/?curid=42177)
+* [Dick Johnson V8 Challenge](https://www.pcgamingwiki.com/wiki/?curid=189551)
 * [Dick Wilde](https://www.pcgamingwiki.com/wiki/?curid=59240)
 * [Dick Wilde 2](https://www.pcgamingwiki.com/wiki/?curid=127712)
 * [Dictator's Dreams](https://www.pcgamingwiki.com/wiki/?curid=92001)
