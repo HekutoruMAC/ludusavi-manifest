@@ -36166,6 +36166,7 @@
 * [Witch n' Wiz](https://www.pcgamingwiki.com/wiki/?curid=173307)
 * [Witch of Ice Kingdom II](https://www.pcgamingwiki.com/wiki/?curid=56044)
 * [Witch of the Woods](https://www.pcgamingwiki.com/wiki/?curid=121377)
+* [Witch on the Holy Night](https://www.pcgamingwiki.com/wiki/?curid=189681)
 * [Witch Ring Meister](https://www.pcgamingwiki.com/wiki/?curid=132647)
 * [Witch Sword](https://www.pcgamingwiki.com/wiki/?curid=79799)
 * [Witch Thief](https://www.pcgamingwiki.com/wiki/?curid=67982)
