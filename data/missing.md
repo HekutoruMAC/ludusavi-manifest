@@ -20848,6 +20848,7 @@
 * [Nanoui](https://www.pcgamingwiki.com/wiki/?curid=88792)
 * [Nanoworld](https://www.pcgamingwiki.com/wiki/?curid=153242)
 * [Nantucket](https://www.pcgamingwiki.com/wiki/?curid=79326)
+* [Napoleon](https://www.pcgamingwiki.com/wiki/?curid=189679)
 * [NAR - Not Another Royale](https://www.pcgamingwiki.com/wiki/?curid=125550)
 * [Narazumono](https://www.pcgamingwiki.com/wiki/?curid=135014)
 * [Narborion Saga](https://www.pcgamingwiki.com/wiki/?curid=56942)
