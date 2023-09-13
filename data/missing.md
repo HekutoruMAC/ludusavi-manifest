@@ -25595,7 +25595,6 @@
 * [Risky Woods](https://www.pcgamingwiki.com/wiki/?curid=173333)
 * [Risnuch](https://www.pcgamingwiki.com/wiki/?curid=153960)
 * [Ritbone](https://www.pcgamingwiki.com/wiki/?curid=136865)
-* [RITE](https://www.pcgamingwiki.com/wiki/?curid=163669)
 * [Rite of Life](https://www.pcgamingwiki.com/wiki/?curid=59858)
 * [Rite of Passage: Child of the Forest](https://www.pcgamingwiki.com/wiki/?curid=62340)
 * [Rite of Passage: Hide and Seek](https://www.pcgamingwiki.com/wiki/?curid=81488)
