@@ -11955,6 +11955,7 @@
 * [Fortissimo FA](https://www.pcgamingwiki.com/wiki/?curid=94465)
 * [Fortissimo FA INTL Ver](https://www.pcgamingwiki.com/wiki/?curid=104701)
 * [FortOfTheNight](https://www.pcgamingwiki.com/wiki/?curid=99850)
+* [Fortress Europe: The Liberation of France](https://www.pcgamingwiki.com/wiki/?curid=189964)
 * [Fortress of Hell](https://www.pcgamingwiki.com/wiki/?curid=130478)
 * [Fortune & Gloria](https://www.pcgamingwiki.com/wiki/?curid=100314)
 * [Fortune Telling](https://www.pcgamingwiki.com/wiki/?curid=141304)
