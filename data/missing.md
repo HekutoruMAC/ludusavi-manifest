@@ -9255,6 +9255,7 @@
 * [DreamEater](https://www.pcgamingwiki.com/wiki/?curid=135281)
 * [Dreamflight VR](https://www.pcgamingwiki.com/wiki/?curid=47825)
 * [DreamFly](https://www.pcgamingwiki.com/wiki/?curid=156161)
+* [Dreamhouse: The Game](https://www.pcgamingwiki.com/wiki/?curid=190293)
 * [Dreamily](https://www.pcgamingwiki.com/wiki/?curid=90070)
 * [Dreaming](https://www.pcgamingwiki.com/wiki/?curid=47585)
 * [Dreaming About You](https://www.pcgamingwiki.com/wiki/?curid=65662)
