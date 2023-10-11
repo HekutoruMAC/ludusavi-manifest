@@ -18449,7 +18449,6 @@
 * [Luckless Seven](https://www.pcgamingwiki.com/wiki/?curid=40371)
 * [Luckslinger](https://www.pcgamingwiki.com/wiki/?curid=38012)
 * [Lucky Luke: Transcontinental Railroad](https://www.pcgamingwiki.com/wiki/?curid=185383)
-* [Lucky Luke: Western Fever](https://www.pcgamingwiki.com/wiki/?curid=177334)
 * [Lucky Night VR](https://www.pcgamingwiki.com/wiki/?curid=77076)
 * [Lucky Night: Poker Games](https://www.pcgamingwiki.com/wiki/?curid=99558)
 * [Lucky Night: Texas Hold'em VR](https://www.pcgamingwiki.com/wiki/?curid=66011)
