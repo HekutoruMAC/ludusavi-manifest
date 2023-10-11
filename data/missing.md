@@ -10771,7 +10771,6 @@
 * [Eye Of Plunder](https://www.pcgamingwiki.com/wiki/?curid=150317)
 * [Eye of the Owl - Bosch VR](https://www.pcgamingwiki.com/wiki/?curid=55726)
 * [Eye of the Temple](https://www.pcgamingwiki.com/wiki/?curid=90431)
-* [Eyes in the Dark](https://www.pcgamingwiki.com/wiki/?curid=179492)
 * [Eyes of Fear](https://www.pcgamingwiki.com/wiki/?curid=132320)
 * [Eyes of the Killer](https://www.pcgamingwiki.com/wiki/?curid=179128)
 * [Eyestorm](https://www.pcgamingwiki.com/wiki/?curid=36720)
