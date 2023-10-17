@@ -27702,6 +27702,7 @@
 * [Skript](https://www.pcgamingwiki.com/wiki/?curid=75506)
 * [Skull and Bones](https://www.pcgamingwiki.com/wiki/?curid=63656)
 * [Skull Feast](https://www.pcgamingwiki.com/wiki/?curid=89359)
+* [Skull Island: Rise of Kong](https://www.pcgamingwiki.com/wiki/?curid=190472)
 * [Skull Rogue](https://www.pcgamingwiki.com/wiki/?curid=155644)
 * [Skull Rush](https://www.pcgamingwiki.com/wiki/?curid=57758)
 * [Skull's Solitude](https://www.pcgamingwiki.com/wiki/?curid=155462)
