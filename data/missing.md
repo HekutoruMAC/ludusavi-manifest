@@ -16221,7 +16221,6 @@
 * [Jailbreak Craft](https://www.pcgamingwiki.com/wiki/?curid=98038)
 * [Jailbreak Russia](https://www.pcgamingwiki.com/wiki/?curid=98042)
 * [Jailbreak Simulator](https://www.pcgamingwiki.com/wiki/?curid=144079)
-* [Jak II](https://www.pcgamingwiki.com/wiki/?curid=190611)
 * [Jake and the Giant](https://www.pcgamingwiki.com/wiki/?curid=122058)
 * [Jake's Love Story](https://www.pcgamingwiki.com/wiki/?curid=72102)
 * [Jam Session VR](https://www.pcgamingwiki.com/wiki/?curid=76213)
