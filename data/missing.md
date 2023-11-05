@@ -4897,7 +4897,6 @@
 * [Call of Cthulhu: Shadow of the Comet](https://www.pcgamingwiki.com/wiki/?curid=34342)
 * [Call of Cthulhu: The Wasted Land](https://www.pcgamingwiki.com/wiki/?curid=50596)
 * [Call of Duty: Heroes](https://www.pcgamingwiki.com/wiki/?curid=76744)
-* [Call of Duty: Modern Warfare III](https://www.pcgamingwiki.com/wiki/?curid=189135)
 * [Call of Duty: Online](https://www.pcgamingwiki.com/wiki/?curid=94163)
 * [Call of Duty: Warzone 2.0](https://www.pcgamingwiki.com/wiki/?curid=182994)
 * [Call of Fries](https://www.pcgamingwiki.com/wiki/?curid=132460)
