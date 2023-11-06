@@ -11836,7 +11836,6 @@
 * [For Food Sake! VR](https://www.pcgamingwiki.com/wiki/?curid=87041)
 * [For Inco](https://www.pcgamingwiki.com/wiki/?curid=148593)
 * [For Rent: Haunted House](https://www.pcgamingwiki.com/wiki/?curid=80816)
-* [For the King II](https://www.pcgamingwiki.com/wiki/?curid=190954)
 * [For the Night](https://www.pcgamingwiki.com/wiki/?curid=150424)
 * [For the Revenge](https://www.pcgamingwiki.com/wiki/?curid=104665)
 * [For the Stars](https://www.pcgamingwiki.com/wiki/?curid=81598)
