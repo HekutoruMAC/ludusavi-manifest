@@ -16576,6 +16576,7 @@
 * [Jupiteration](https://www.pcgamingwiki.com/wiki/?curid=59023)
 * [Jurassic City Walk](https://www.pcgamingwiki.com/wiki/?curid=92623)
 * [Jurassic Island: The Dinosaur Zoo](https://www.pcgamingwiki.com/wiki/?curid=45513)
+* [Jurassic Park Classic Games Collection](https://www.pcgamingwiki.com/wiki/?curid=191392)
 * [Jurassic Park: Operation Genesis](https://www.pcgamingwiki.com/wiki/?curid=131686)
 * [Jurassic Safari Hunt](https://www.pcgamingwiki.com/wiki/?curid=94503)
 * [Jurassic Survival](https://www.pcgamingwiki.com/wiki/?curid=41936)
