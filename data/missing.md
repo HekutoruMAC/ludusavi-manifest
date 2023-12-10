@@ -2278,6 +2278,7 @@
 * [Asterism](https://www.pcgamingwiki.com/wiki/?curid=142259)
 * [Asterix & Obelix XXL 2: Mission: Las Vegum](https://www.pcgamingwiki.com/wiki/?curid=175914)
 * [Asterix & Obelix XXXL: The Ram from Hibernia](https://www.pcgamingwiki.com/wiki/?curid=182974)
+* [Asterix & Obelix: Slap Them All! 2](https://www.pcgamingwiki.com/wiki/?curid=191691)
 * [Astérix & Obélix: Take on Caesar](https://www.pcgamingwiki.com/wiki/?curid=178386)
 * [Astérix: Caesar's Challenge](https://www.pcgamingwiki.com/wiki/?curid=173305)
 * [Asterix: The Gallic War](https://www.pcgamingwiki.com/wiki/?curid=168583)
