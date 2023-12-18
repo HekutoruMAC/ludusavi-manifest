@@ -32623,6 +32623,7 @@
 * [The Sunny Day](https://www.pcgamingwiki.com/wiki/?curid=99494)
 * [The Sunset](https://www.pcgamingwiki.com/wiki/?curid=42384)
 * [The Sunset 2096](https://www.pcgamingwiki.com/wiki/?curid=95031)
+* [The Super Shinobi 2](https://www.pcgamingwiki.com/wiki/?curid=191906)
 * [The Super Spy](https://www.pcgamingwiki.com/wiki/?curid=168894)
 * [The Superfluous](https://www.pcgamingwiki.com/wiki/?curid=52854)
 * [The Superlatives: Aetherfall](https://www.pcgamingwiki.com/wiki/?curid=74115)
