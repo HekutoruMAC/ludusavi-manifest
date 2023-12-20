@@ -31787,6 +31787,7 @@
 * [The History Channel: Battle of Britain - World War II 1940](https://www.pcgamingwiki.com/wiki/?curid=191993)
 * [The History Channel: Civil War - Great Battles](https://www.pcgamingwiki.com/wiki/?curid=191984)
 * [The History Channel: Crusades - Quest for Power](https://www.pcgamingwiki.com/wiki/?curid=191987)
+* [The History Channel: Great Battles of Rome](https://www.pcgamingwiki.com/wiki/?curid=191998)
 * [The Hit](https://www.pcgamingwiki.com/wiki/?curid=18381)
 * [The Hitchhiker's Guide to the Galaxy](https://www.pcgamingwiki.com/wiki/?curid=175896)
 * [The Hobbit](https://www.pcgamingwiki.com/wiki/?curid=22954)
