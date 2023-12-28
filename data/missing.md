@@ -15539,7 +15539,6 @@
 * [Imperialism: Fate of India](https://www.pcgamingwiki.com/wiki/?curid=100374)
 * [Imperialism: The Dark Continent](https://www.pcgamingwiki.com/wiki/?curid=93170)
 * [Imperil](https://www.pcgamingwiki.com/wiki/?curid=73667)
-* [Imperishable Night](https://www.pcgamingwiki.com/wiki/?curid=30997)
 * [Imperium Galactica (1997)](https://www.pcgamingwiki.com/wiki/?curid=56751)
 * [Imperium Romanum (2008)](https://www.pcgamingwiki.com/wiki/?curid=41329)
 * [Imperivm: Great Battles of Rome HD Edition](https://www.pcgamingwiki.com/wiki/?curid=170819)
