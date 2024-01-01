@@ -7176,7 +7176,6 @@
 * [Cursed Queen: Wicked Witch](https://www.pcgamingwiki.com/wiki/?curid=100138)
 * [Cursed Roots](https://www.pcgamingwiki.com/wiki/?curid=148453)
 * [Cursed Sight](https://www.pcgamingwiki.com/wiki/?curid=37740)
-* [Cursed to Golf](https://www.pcgamingwiki.com/wiki/?curid=180908)
 * [Cursed Treasure 2](https://www.pcgamingwiki.com/wiki/?curid=65855)
 * [Cursed Treasure 2 Ultimate Edition](https://www.pcgamingwiki.com/wiki/?curid=178564)
 * [Cursed West](https://www.pcgamingwiki.com/wiki/?curid=38837)
