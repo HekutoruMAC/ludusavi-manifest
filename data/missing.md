@@ -31102,6 +31102,7 @@
 * [The Arena of Gladiators](https://www.pcgamingwiki.com/wiki/?curid=78080)
 * [The Armament Project](https://www.pcgamingwiki.com/wiki/?curid=70651)
 * [The Armclaw Experiment](https://www.pcgamingwiki.com/wiki/?curid=93617)
+* [The Arrogant Kaiju Princess and The Detective Servant](https://www.pcgamingwiki.com/wiki/?curid=192282)
 * [THE ART - Metamorphosis](https://www.pcgamingwiki.com/wiki/?curid=149156)
 * [The Art - Puzzle](https://www.pcgamingwiki.com/wiki/?curid=102959)
 * [The Art of Fight](https://www.pcgamingwiki.com/wiki/?curid=51286)
