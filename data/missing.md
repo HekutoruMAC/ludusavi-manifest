@@ -166,6 +166,7 @@
 * [3 Skulls of the Toltecs](https://www.pcgamingwiki.com/wiki/?curid=142506)
 * [3 Stars of Destiny](https://www.pcgamingwiki.com/wiki/?curid=50502)
 * [3-D Ultra Lionel Train Town](https://www.pcgamingwiki.com/wiki/?curid=16494)
+* [3-D Ultra Pinball](https://www.pcgamingwiki.com/wiki/?curid=192442)
 * [3-D Ultra Radio Control Racers](https://www.pcgamingwiki.com/wiki/?curid=8402)
 * [3-in-1 Bundle Brain Trainings](https://www.pcgamingwiki.com/wiki/?curid=76223)
 * [3, 2, 1, Survive!](https://www.pcgamingwiki.com/wiki/?curid=94796)
