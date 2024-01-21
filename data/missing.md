@@ -21485,6 +21485,7 @@
 * [NitroRage](https://www.pcgamingwiki.com/wiki/?curid=64329)
 * [No Body Home](https://www.pcgamingwiki.com/wiki/?curid=122784)
 * [No Captain Allowed!](https://www.pcgamingwiki.com/wiki/?curid=155765)
+* [No Case Should Remain Unsolved](https://www.pcgamingwiki.com/wiki/?curid=192710)
 * [No Cat Fights Here](https://www.pcgamingwiki.com/wiki/?curid=179485)
 * [No Clue VR](https://www.pcgamingwiki.com/wiki/?curid=61534)
 * [No Country for Old Men](https://www.pcgamingwiki.com/wiki/?curid=145401)
