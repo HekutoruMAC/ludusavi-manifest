@@ -31875,6 +31875,7 @@
 * [The IL Tempo Game](https://www.pcgamingwiki.com/wiki/?curid=73967)
 * [The Illusory Abyss](https://www.pcgamingwiki.com/wiki/?curid=136481)
 * [The Immortal](https://www.pcgamingwiki.com/wiki/?curid=72493)
+* [The Immortals of Terra: A Perry Rhodan Adventure](https://www.pcgamingwiki.com/wiki/?curid=192747)
 * [The Impossible Travel Agency](https://www.pcgamingwiki.com/wiki/?curid=36988)
 * [The Impure](https://www.pcgamingwiki.com/wiki/?curid=104039)
 * [The Incredible Adventures of Super Panda](https://www.pcgamingwiki.com/wiki/?curid=136798)
