@@ -34501,7 +34501,6 @@
 * [Under a Porcelain Sun](https://www.pcgamingwiki.com/wiki/?curid=89664)
 * [Under Leaves](https://www.pcgamingwiki.com/wiki/?curid=60125)
 * [Under Night In-Birth Exe:Late](https://www.pcgamingwiki.com/wiki/?curid=37707)
-* [Under Night In-Birth II Sys:Celes](https://www.pcgamingwiki.com/wiki/?curid=189006)
 * [Under One Wing](https://www.pcgamingwiki.com/wiki/?curid=128228)
 * [Under Pressure](https://www.pcgamingwiki.com/wiki/?curid=138838)
 * [Under Stranger Stars](https://www.pcgamingwiki.com/wiki/?curid=141931)
