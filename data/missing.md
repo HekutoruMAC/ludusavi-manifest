@@ -36639,7 +36639,6 @@
 * [WWTF](https://www.pcgamingwiki.com/wiki/?curid=112392)
 * [Wyatt Derp](https://www.pcgamingwiki.com/wiki/?curid=34976)
 * [Wyatt Derp 2: Peacekeeper](https://www.pcgamingwiki.com/wiki/?curid=34970)
-* [Wyrmsun](https://www.pcgamingwiki.com/wiki/?curid=38260)
 * [WyVRn](https://www.pcgamingwiki.com/wiki/?curid=81131)
 * [X Archetype](https://www.pcgamingwiki.com/wiki/?curid=123499)
 * [X Caeli: The Iron Hand of Love](https://www.pcgamingwiki.com/wiki/?curid=78052)
