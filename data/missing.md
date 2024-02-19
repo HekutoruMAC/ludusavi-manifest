@@ -8669,7 +8669,6 @@
 * [Disney Planes](https://www.pcgamingwiki.com/wiki/?curid=49566)
 * [Disney Princess Majestic Quest](https://www.pcgamingwiki.com/wiki/?curid=166615)
 * [Disney Princess: Magical Dress-Up](https://www.pcgamingwiki.com/wiki/?curid=166643)
-* [Disney Princess: My Fairytale Adventure](https://www.pcgamingwiki.com/wiki/?curid=49544)
 * [Disney Princess: Royal Horse Show](https://www.pcgamingwiki.com/wiki/?curid=166680)
 * [Disney Solitaire](https://www.pcgamingwiki.com/wiki/?curid=170972)
 * [Disney Speedstorm](https://www.pcgamingwiki.com/wiki/?curid=179426)
