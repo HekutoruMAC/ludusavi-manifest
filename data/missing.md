@@ -30391,6 +30391,7 @@
 * [Swoon! Earth Escape](https://www.pcgamingwiki.com/wiki/?curid=187594)
 * [Sword 'N' Board](https://www.pcgamingwiki.com/wiki/?curid=44766)
 * [Sword and Shield](https://www.pcgamingwiki.com/wiki/?curid=52866)
+* [Sword Art Online: Fractured Daydream](https://www.pcgamingwiki.com/wiki/?curid=193428)
 * [Sword Art Online: Integral Factor](https://www.pcgamingwiki.com/wiki/?curid=190072)
 * [Sword Bros](https://www.pcgamingwiki.com/wiki/?curid=74999)
 * [Sword Defense](https://www.pcgamingwiki.com/wiki/?curid=130026)
