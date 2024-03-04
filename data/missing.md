@@ -20950,7 +20950,6 @@
 * [NASCAR SimRacing](https://www.pcgamingwiki.com/wiki/?curid=107138)
 * [NASCAR The Game: 2013](https://www.pcgamingwiki.com/wiki/?curid=8952)
 * [NASCAR Thunder 2003](https://www.pcgamingwiki.com/wiki/?curid=107130)
-* [NASCAR Thunder 2004](https://www.pcgamingwiki.com/wiki/?curid=107134)
 * [Nascence](https://www.pcgamingwiki.com/wiki/?curid=160991)
 * [Nash Racing](https://www.pcgamingwiki.com/wiki/?curid=56990)
 * [Nash Racing 2: Muscle Cars](https://www.pcgamingwiki.com/wiki/?curid=72985)
