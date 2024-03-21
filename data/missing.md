@@ -13276,6 +13276,7 @@
 * [GORSD](https://www.pcgamingwiki.com/wiki/?curid=127241)
 * [Gorytale](https://www.pcgamingwiki.com/wiki/?curid=122668)
 * [Goscurry](https://www.pcgamingwiki.com/wiki/?curid=48949)
+* [Got reincarnated into a world of RPG full of NPCs…](https://www.pcgamingwiki.com/wiki/?curid=193847)
 * [Gotcha Racing 2nd](https://www.pcgamingwiki.com/wiki/?curid=103297)
 * [Goth Girlfriend](https://www.pcgamingwiki.com/wiki/?curid=151389)
 * [Gotham Gangsta](https://www.pcgamingwiki.com/wiki/?curid=55442)
