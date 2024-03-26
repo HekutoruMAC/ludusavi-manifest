@@ -28446,7 +28446,6 @@
 * [South of Midnight](https://www.pcgamingwiki.com/wiki/?curid=187998)
 * [South of the Circle](https://www.pcgamingwiki.com/wiki/?curid=164173)
 * [South Park: Chef's Luv Shack](https://www.pcgamingwiki.com/wiki/?curid=145857)
-* [South Park: Snow Day!](https://www.pcgamingwiki.com/wiki/?curid=190819)
 * [Southbound](https://www.pcgamingwiki.com/wiki/?curid=139135)
 * [Sovereign Syndicate](https://www.pcgamingwiki.com/wiki/?curid=192617)
 * [Sovereign's Will](https://www.pcgamingwiki.com/wiki/?curid=156999)
