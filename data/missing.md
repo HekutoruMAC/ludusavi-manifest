@@ -27918,6 +27918,7 @@
 * [Slender's Woods](https://www.pcgamingwiki.com/wiki/?curid=106453)
 * [SLI-FI: 2D Planet Platformer](https://www.pcgamingwiki.com/wiki/?curid=68895)
 * [Slice](https://www.pcgamingwiki.com/wiki/?curid=92783)
+* [Slice & Dice](https://www.pcgamingwiki.com/wiki/?curid=193967)
 * [SLICE BACK](https://www.pcgamingwiki.com/wiki/?curid=145405)
 * [Slice of Life](https://www.pcgamingwiki.com/wiki/?curid=68206)
 * [Slice the Ice](https://www.pcgamingwiki.com/wiki/?curid=76313)
