@@ -22438,7 +22438,6 @@
 * [Outpost L5](https://www.pcgamingwiki.com/wiki/?curid=65626)
 * [Outpost on Syrinx](https://www.pcgamingwiki.com/wiki/?curid=139624)
 * [Outpost Zero](https://www.pcgamingwiki.com/wiki/?curid=95023)
-* [Outpost: Infinity Siege](https://www.pcgamingwiki.com/wiki/?curid=193705)
 * [Output Pasture](https://www.pcgamingwiki.com/wiki/?curid=154289)
 * [Outracer](https://www.pcgamingwiki.com/wiki/?curid=66261)
 * [Outrage](https://www.pcgamingwiki.com/wiki/?curid=34956)
