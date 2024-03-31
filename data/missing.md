@@ -11540,7 +11540,6 @@
 * [FIshing Adventure VR](https://www.pcgamingwiki.com/wiki/?curid=157359)
 * [Fishing Maniacs 1 TD](https://www.pcgamingwiki.com/wiki/?curid=91538)
 * [Fishing on the Fly](https://www.pcgamingwiki.com/wiki/?curid=64892)
-* [Fishing Planet](https://www.pcgamingwiki.com/wiki/?curid=46917)
 * [Fishing Sim World: Pro Tour](https://www.pcgamingwiki.com/wiki/?curid=108952)
 * [Fishing Simulator](https://www.pcgamingwiki.com/wiki/?curid=112148)
 * [Fishing: North Atlantic](https://www.pcgamingwiki.com/wiki/?curid=167907)
