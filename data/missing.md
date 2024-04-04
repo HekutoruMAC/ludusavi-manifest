@@ -12232,7 +12232,6 @@
 * [Frozen Flame](https://www.pcgamingwiki.com/wiki/?curid=82934)
 * [Frozen Free Fall](https://www.pcgamingwiki.com/wiki/?curid=168996)
 * [Frozen Free Fall: Snowball Fight](https://www.pcgamingwiki.com/wiki/?curid=46466)
-* [Frozen Hearth](https://www.pcgamingwiki.com/wiki/?curid=40476)
 * [Frozen Knight](https://www.pcgamingwiki.com/wiki/?curid=112472)
 * [Frozen Soul](https://www.pcgamingwiki.com/wiki/?curid=96873)
 * [Frozen Synapse Prime](https://www.pcgamingwiki.com/wiki/?curid=20855)
