@@ -7954,6 +7954,7 @@
 * [Death's Maze](https://www.pcgamingwiki.com/wiki/?curid=72879)
 * [Deathbloom: Chapter 1](https://www.pcgamingwiki.com/wiki/?curid=135229)
 * [Deathbloom: Chapter 2](https://www.pcgamingwiki.com/wiki/?curid=154229)
+* [Deathbound](https://www.pcgamingwiki.com/wiki/?curid=193956)
 * [Deathbringer](https://www.pcgamingwiki.com/wiki/?curid=74804)
 * [DeathCrank](https://www.pcgamingwiki.com/wiki/?curid=54596)
 * [Deathdays End](https://www.pcgamingwiki.com/wiki/?curid=122516)
