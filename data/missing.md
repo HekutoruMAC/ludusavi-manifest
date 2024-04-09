@@ -31969,6 +31969,7 @@
 * [The King of Chicago](https://www.pcgamingwiki.com/wiki/?curid=194022)
 * [The King of Fighters '97 Global Match](https://www.pcgamingwiki.com/wiki/?curid=92501)
 * [The King of Fighters '99: Evolution](https://www.pcgamingwiki.com/wiki/?curid=92575)
+* [The King of Fighters 2003](https://www.pcgamingwiki.com/wiki/?curid=194280)
 * [The King's Heroes](https://www.pcgamingwiki.com/wiki/?curid=62148)
 * [The King's New Castle](https://www.pcgamingwiki.com/wiki/?curid=130334)
 * [The King's Request: Physiology and Anatomy Revision Game](https://www.pcgamingwiki.com/wiki/?curid=96753)
