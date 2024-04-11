@@ -13005,6 +13005,7 @@
 * [Glo](https://www.pcgamingwiki.com/wiki/?curid=70531)
 * [Glö Phlox](https://www.pcgamingwiki.com/wiki/?curid=114902)
 * [Global Adventures](https://www.pcgamingwiki.com/wiki/?curid=64636)
+* [Global Agenda: Free Agent](https://www.pcgamingwiki.com/wiki/?curid=194309)
 * [Global ATC Simulator](https://www.pcgamingwiki.com/wiki/?curid=49369)
 * [Global Aviation Dream](https://www.pcgamingwiki.com/wiki/?curid=153925)
 * [Global City](https://www.pcgamingwiki.com/wiki/?curid=179597)
