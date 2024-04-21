@@ -26773,7 +26773,6 @@
 * [Schacht](https://www.pcgamingwiki.com/wiki/?curid=50885)
 * [SCHAR: Blue Shield Alliance](https://www.pcgamingwiki.com/wiki/?curid=48537)
 * [Schatte: The Witch and the Fake Shadow](https://www.pcgamingwiki.com/wiki/?curid=74926)
-* [Scheming through the Zombie Apocalypse Ep2: Caged](https://www.pcgamingwiki.com/wiki/?curid=114702)
 * [Schlag den Star - Das Spiel](https://www.pcgamingwiki.com/wiki/?curid=76994)
 * [Schlocks](https://www.pcgamingwiki.com/wiki/?curid=61138)
 * [Scholastic's The Magic School Bus Explores Inside the Earth](https://www.pcgamingwiki.com/wiki/?curid=21650)
