@@ -6637,7 +6637,6 @@
 * [Cottage Garden](https://www.pcgamingwiki.com/wiki/?curid=89244)
 * [Cotton 2: Magical Night Dreams](https://www.pcgamingwiki.com/wiki/?curid=169514)
 * [Cotton Guardian Force Saturn Tribute](https://www.pcgamingwiki.com/wiki/?curid=168133)
-* [COTTOn Rock'n'Roll -SUPERLATIVE NIGHT DREAMS-](https://www.pcgamingwiki.com/wiki/?curid=169518)
 * [Couch Party Game Night](https://www.pcgamingwiki.com/wiki/?curid=112032)
 * [Couch Storm: Battle Royale](https://www.pcgamingwiki.com/wiki/?curid=138566)
 * [Couch Versus](https://www.pcgamingwiki.com/wiki/?curid=125857)
