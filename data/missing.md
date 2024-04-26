@@ -26616,7 +26616,6 @@
 * [Sanctum Breach](https://www.pcgamingwiki.com/wiki/?curid=153418)
 * [Sanctus Mortem](https://www.pcgamingwiki.com/wiki/?curid=95272)
 * [Sand Is the Soul](https://www.pcgamingwiki.com/wiki/?curid=78514)
-* [Sand Land](https://www.pcgamingwiki.com/wiki/?curid=187797)
 * [Sandbox Anything](https://www.pcgamingwiki.com/wiki/?curid=136901)
 * [Sandbox Showdown](https://www.pcgamingwiki.com/wiki/?curid=94485)
 * [Sandhill Architectures](https://www.pcgamingwiki.com/wiki/?curid=104051)
