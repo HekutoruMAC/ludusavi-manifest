@@ -34866,6 +34866,7 @@
 * [VALHALL](https://www.pcgamingwiki.com/wiki/?curid=109540)
 * [Valhall 2000](https://www.pcgamingwiki.com/wiki/?curid=64510)
 * [Valiant](https://www.pcgamingwiki.com/wiki/?curid=43235)
+* [Valiant Hearts: Coming Home](https://www.pcgamingwiki.com/wiki/?curid=194791)
 * [Valiant Knights: Typing Battle](https://www.pcgamingwiki.com/wiki/?curid=59810)
 * [Valiant: Resurrection](https://www.pcgamingwiki.com/wiki/?curid=47964)
 * [Valknut](https://www.pcgamingwiki.com/wiki/?curid=73839)
