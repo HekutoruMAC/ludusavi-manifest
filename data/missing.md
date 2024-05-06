@@ -13830,7 +13830,6 @@
 * [Hadaka Shitsuji - Naked Butlers](https://www.pcgamingwiki.com/wiki/?curid=145957)
 * [Hadean Lands](https://www.pcgamingwiki.com/wiki/?curid=33567)
 * [Hades Challenge](https://www.pcgamingwiki.com/wiki/?curid=97263)
-* [Hades II](https://www.pcgamingwiki.com/wiki/?curid=183626)
 * [Hades' Star](https://www.pcgamingwiki.com/wiki/?curid=124390)
 * [Haeven](https://www.pcgamingwiki.com/wiki/?curid=41815)
 * [Hags Castle](https://www.pcgamingwiki.com/wiki/?curid=102295)
