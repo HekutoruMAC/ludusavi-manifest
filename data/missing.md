@@ -12791,7 +12791,6 @@
 * [Genso Suikoden](https://www.pcgamingwiki.com/wiki/?curid=170447)
 * [Gensokyo Defenders / 幻想郷ディフェンダーズ / 幻想鄉守護者](https://www.pcgamingwiki.com/wiki/?curid=134750)
 * [Gensokyo Rolling Force](https://www.pcgamingwiki.com/wiki/?curid=100454)
-* [GENSOU Skydrift](https://www.pcgamingwiki.com/wiki/?curid=153507)
 * [Gentlemen!](https://www.pcgamingwiki.com/wiki/?curid=40532)
 * [Gentlemen's Club](https://www.pcgamingwiki.com/wiki/?curid=178965)
 * [GentleMoon 2](https://www.pcgamingwiki.com/wiki/?curid=42639)
