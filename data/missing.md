@@ -24571,6 +24571,7 @@
 * [Quantum Lock](https://www.pcgamingwiki.com/wiki/?curid=45053)
 * [Quantum Multiverse](https://www.pcgamingwiki.com/wiki/?curid=144582)
 * [Quantum Pilot](https://www.pcgamingwiki.com/wiki/?curid=74189)
+* [Quantum Protocol](https://www.pcgamingwiki.com/wiki/?curid=194944)
 * [Quantum Replica](https://www.pcgamingwiki.com/wiki/?curid=39673)
 * [Quantum Retribution](https://www.pcgamingwiki.com/wiki/?curid=120804)
 * [Quantum Rush Champions](https://www.pcgamingwiki.com/wiki/?curid=49205)
