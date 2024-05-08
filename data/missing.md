@@ -17090,7 +17090,6 @@
 * [KingSim](https://www.pcgamingwiki.com/wiki/?curid=151171)
 * [Kingslayer Tactics](https://www.pcgamingwiki.com/wiki/?curid=136004)
 * [Kingspray Graffiti Simulator](https://www.pcgamingwiki.com/wiki/?curid=33490)
-* [KinitoPET](https://www.pcgamingwiki.com/wiki/?curid=194210)
 * [Kink](https://www.pcgamingwiki.com/wiki/?curid=74433)
 * [Kinkshamed](https://www.pcgamingwiki.com/wiki/?curid=103827)
 * [Kinky Fight Club](https://www.pcgamingwiki.com/wiki/?curid=174790)
