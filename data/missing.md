@@ -18087,6 +18087,7 @@
 * [Little Imps: A Dungeon Builder](https://www.pcgamingwiki.com/wiki/?curid=124346)
 * [Little Jack's Adventures](https://www.pcgamingwiki.com/wiki/?curid=55706)
 * [Little Kingdom 2](https://www.pcgamingwiki.com/wiki/?curid=55131)
+* [Little Kitty, Big City](https://www.pcgamingwiki.com/wiki/?curid=194957)
 * [Little Legend](https://www.pcgamingwiki.com/wiki/?curid=128755)
 * [Little Lords of Twilight](https://www.pcgamingwiki.com/wiki/?curid=62042)
 * [Little Lost Robots](https://www.pcgamingwiki.com/wiki/?curid=130392)
