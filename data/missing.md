@@ -19167,6 +19167,7 @@
 * [Master Arena](https://www.pcgamingwiki.com/wiki/?curid=93271)
 * [Master Bladesmith](https://www.pcgamingwiki.com/wiki/?curid=154124)
 * [Master Cube](https://www.pcgamingwiki.com/wiki/?curid=140869)
+* [Master Detective Archives: RAIN CODE Plus](https://www.pcgamingwiki.com/wiki/?curid=194953)
 * [Master of ABC](https://www.pcgamingwiki.com/wiki/?curid=66039)
 * [Master of Dimensions](https://www.pcgamingwiki.com/wiki/?curid=178619)
 * [Master of LinCard](https://www.pcgamingwiki.com/wiki/?curid=144997)
