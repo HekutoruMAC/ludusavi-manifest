@@ -30651,7 +30651,6 @@
 * [TAL: Arctic](https://www.pcgamingwiki.com/wiki/?curid=99824)
 * [TAL: Arctic 2](https://www.pcgamingwiki.com/wiki/?curid=103737)
 * [TAL: Arctic 3](https://www.pcgamingwiki.com/wiki/?curid=110720)
-* [TAL: Jungle](https://www.pcgamingwiki.com/wiki/?curid=122117)
 * [TAL: Wizard's Adventures](https://www.pcgamingwiki.com/wiki/?curid=153497)
 * [Tale of Alamar](https://www.pcgamingwiki.com/wiki/?curid=87165)
 * [Tale of Enki: Pilgrimage](https://www.pcgamingwiki.com/wiki/?curid=81790)
