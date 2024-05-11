@@ -33997,6 +33997,7 @@
 * [Tri Wing](https://www.pcgamingwiki.com/wiki/?curid=87049)
 * [Tri.Attack();](https://www.pcgamingwiki.com/wiki/?curid=145041)
 * [TRI.DEFENDER](https://www.pcgamingwiki.com/wiki/?curid=52796)
+* [Triad Wars](https://www.pcgamingwiki.com/wiki/?curid=194999)
 * [Trial And Terror](https://www.pcgamingwiki.com/wiki/?curid=150641)
 * [Trial by Teng: A Twilight Path Adventure](https://www.pcgamingwiki.com/wiki/?curid=135740)
 * [Trial by Viking](https://www.pcgamingwiki.com/wiki/?curid=43903)
