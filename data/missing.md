@@ -31428,6 +31428,7 @@
 * [The Colony (Rusty Swain)](https://www.pcgamingwiki.com/wiki/?curid=104893)
 * [The Color of the Roses](https://www.pcgamingwiki.com/wiki/?curid=130094)
 * [The Coma](https://www.pcgamingwiki.com/wiki/?curid=69563)
+* [The Coma 2B: Catacomb](https://www.pcgamingwiki.com/wiki/?curid=195049)
 * [The Coma: Cutting Class](https://www.pcgamingwiki.com/wiki/?curid=37709)
 * [The Commission: Organized Crime Grand Strategy](https://www.pcgamingwiki.com/wiki/?curid=104869)
 * [The Communist Dogifesto](https://www.pcgamingwiki.com/wiki/?curid=80563)
