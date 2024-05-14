@@ -4377,7 +4377,6 @@
 * [Boyar](https://www.pcgamingwiki.com/wiki/?curid=54293)
 * [BQM - BlockQuest Maker](https://www.pcgamingwiki.com/wiki/?curid=95423)
 * [BR Logic Pack](https://www.pcgamingwiki.com/wiki/?curid=112624)
-* [Braid Anniversary Edition](https://www.pcgamingwiki.com/wiki/?curid=162560)
 * [Brain 43°C](https://www.pcgamingwiki.com/wiki/?curid=96379)
 * [Brain Booster](https://www.pcgamingwiki.com/wiki/?curid=55548)
 * [Brain Crush](https://www.pcgamingwiki.com/wiki/?curid=67861)
