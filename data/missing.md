@@ -26630,6 +26630,7 @@
 * [Samurai Shodown V Special](https://www.pcgamingwiki.com/wiki/?curid=131710)
 * [Samurai Simulator](https://www.pcgamingwiki.com/wiki/?curid=157340)
 * [Samurai Sword VR](https://www.pcgamingwiki.com/wiki/?curid=56673)
+* [Samurai Warriors 4 DX](https://www.pcgamingwiki.com/wiki/?curid=195062)
 * [Samurai Wars](https://www.pcgamingwiki.com/wiki/?curid=42017)
 * [Samurai Wish](https://www.pcgamingwiki.com/wiki/?curid=109188)
 * [San Camillo II](https://www.pcgamingwiki.com/wiki/?curid=109672)
