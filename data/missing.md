@@ -36674,7 +36674,6 @@
 * [Wrath of the Goliaths: Dinosaurs](https://www.pcgamingwiki.com/wiki/?curid=108724)
 * [Wrath of the Samurai](https://www.pcgamingwiki.com/wiki/?curid=139290)
 * [Wrath of Thor](https://www.pcgamingwiki.com/wiki/?curid=127805)
-* [WRC 2: FIA World Rally Championship](https://www.pcgamingwiki.com/wiki/?curid=60015)
 * [Wreck-it Ralph](https://www.pcgamingwiki.com/wiki/?curid=170968)
 * [Wrecked Destruction Simulator](https://www.pcgamingwiki.com/wiki/?curid=127685)
 * [Wrecked: Get Your Ship Together](https://www.pcgamingwiki.com/wiki/?curid=61134)
