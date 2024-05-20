@@ -2832,6 +2832,7 @@
 * [Baldi's Basics in Education & Learning](https://www.pcgamingwiki.com/wiki/?curid=126630)
 * [Baldi's Basics Plus](https://www.pcgamingwiki.com/wiki/?curid=160300)
 * [Baldina's Basis in Education Literary Grammar](https://www.pcgamingwiki.com/wiki/?curid=141298)
+* [Baldis Advanced 3D Math Class](https://www.pcgamingwiki.com/wiki/?curid=195137)
 * [Baldo: The Guardian Owls](https://www.pcgamingwiki.com/wiki/?curid=170466)
 * [Baldoo's Basics of Math Education](https://www.pcgamingwiki.com/wiki/?curid=132134)
 * [Ball 2D: Soccer Online](https://www.pcgamingwiki.com/wiki/?curid=69258)
