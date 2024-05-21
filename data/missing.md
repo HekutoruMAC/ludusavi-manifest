@@ -26775,7 +26775,6 @@
 * [Scarab Tales](https://www.pcgamingwiki.com/wiki/?curid=47423)
 * [SCARF (Isaac James)](https://www.pcgamingwiki.com/wiki/?curid=137332)
 * [Scarlet Fantasy](https://www.pcgamingwiki.com/wiki/?curid=122506)
-* [Scarlet Hollow](https://www.pcgamingwiki.com/wiki/?curid=177982)
 * [Scarlet Smiling Skull](https://www.pcgamingwiki.com/wiki/?curid=110652)
 * [Scarlet Weather Rhapsody](https://www.pcgamingwiki.com/wiki/?curid=31029)
 * [Scarlett Mysteries: Cursed Child](https://www.pcgamingwiki.com/wiki/?curid=63155)
