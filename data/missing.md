@@ -20926,7 +20926,6 @@
 * [Nameless Worlds](https://www.pcgamingwiki.com/wiki/?curid=135437)
 * [Nameless: The One Thing You Must Recall](https://www.pcgamingwiki.com/wiki/?curid=37281)
 * [Nana in the Dark](https://www.pcgamingwiki.com/wiki/?curid=74566)
-* [Nancy Drew Dossier: Lights, Camera, Curses!](https://www.pcgamingwiki.com/wiki/?curid=41274)
 * [Nancy Drew Dossier: Resorting to Danger!](https://www.pcgamingwiki.com/wiki/?curid=41200)
 * [Nancy Drew: Alibi in Ashes](https://www.pcgamingwiki.com/wiki/?curid=40863)
 * [Nancy Drew: Danger by Design](https://www.pcgamingwiki.com/wiki/?curid=41225)
