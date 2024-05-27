@@ -22225,6 +22225,7 @@
 * [Ôpe](https://www.pcgamingwiki.com/wiki/?curid=150237)
 * [Open Colour](https://www.pcgamingwiki.com/wiki/?curid=150148)
 * [Open Country](https://www.pcgamingwiki.com/wiki/?curid=169157)
+* [Open Fortress](https://www.pcgamingwiki.com/wiki/?curid=195274)
 * [Open Kart](https://www.pcgamingwiki.com/wiki/?curid=167596)
 * [Open Ocean](https://www.pcgamingwiki.com/wiki/?curid=138653)
 * [Open Roads](https://www.pcgamingwiki.com/wiki/?curid=165674)
