@@ -32143,6 +32143,7 @@
 * [The Legend of Tobimaru](https://www.pcgamingwiki.com/wiki/?curid=145363)
 * [The Legend of Viccess](https://www.pcgamingwiki.com/wiki/?curid=149303)
 * [The Legend Of Vraz](https://www.pcgamingwiki.com/wiki/?curid=112296)
+* [The Legend of Zelda: Majora's Mask (2 Ship 2 Harkinian)](https://www.pcgamingwiki.com/wiki/?curid=195276)
 * [The Legend of Zelda: Majora's Mask (Zelda 64: Recompiled)](https://www.pcgamingwiki.com/wiki/?curid=195013)
 * [The Legend: A University Story](https://www.pcgamingwiki.com/wiki/?curid=42025)
 * [The Legendary Blacksmith](https://www.pcgamingwiki.com/wiki/?curid=61677)
