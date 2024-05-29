@@ -8975,6 +8975,7 @@
 * [Doom & Destiny Worlds](https://www.pcgamingwiki.com/wiki/?curid=165251)
 * [DooM in the Dark](https://www.pcgamingwiki.com/wiki/?curid=129677)
 * [DooM in the Dark 2](https://www.pcgamingwiki.com/wiki/?curid=153095)
+* [Doom Infinite (Mod)](https://www.pcgamingwiki.com/wiki/?curid=195287)
 * [Doom of the Clawn](https://www.pcgamingwiki.com/wiki/?curid=156098)
 * [Doom Rails](https://www.pcgamingwiki.com/wiki/?curid=41208)
 * [DoomAI](https://www.pcgamingwiki.com/wiki/?curid=134474)
