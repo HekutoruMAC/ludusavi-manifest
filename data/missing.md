@@ -12668,7 +12668,6 @@
 * [Garfield: Lasagna World Tour](https://www.pcgamingwiki.com/wiki/?curid=192133)
 * [Garfield's It's All About Thinking Skills](https://www.pcgamingwiki.com/wiki/?curid=90681)
 * [Garfield's Mad About Cats](https://www.pcgamingwiki.com/wiki/?curid=90687)
-* [Garfield's Wild Ride](https://www.pcgamingwiki.com/wiki/?curid=92477)
 * [Gargoyles Remastered](https://www.pcgamingwiki.com/wiki/?curid=189638)
 * [Garin Game: Curse of Revival Ceremony](https://www.pcgamingwiki.com/wiki/?curid=96093)
 * [Garlic](https://www.pcgamingwiki.com/wiki/?curid=192410)
