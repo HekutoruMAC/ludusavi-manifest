@@ -898,6 +898,7 @@
 * [AEGIS 2186](https://www.pcgamingwiki.com/wiki/?curid=62184)
 * [Aegis of Earth: Protonovus Assault](https://www.pcgamingwiki.com/wiki/?curid=42273)
 * [Aegis Online](https://www.pcgamingwiki.com/wiki/?curid=145115)
+* [Aegis: The First Mission](https://www.pcgamingwiki.com/wiki/?curid=195333)
 * [AegisM](https://www.pcgamingwiki.com/wiki/?curid=96203)
 * [Aegyptus](https://www.pcgamingwiki.com/wiki/?curid=68336)
 * [Aeioth RPG](https://www.pcgamingwiki.com/wiki/?curid=107886)
