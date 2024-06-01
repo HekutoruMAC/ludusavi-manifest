@@ -28851,6 +28851,7 @@
 * [Sparkle Unleashed](https://www.pcgamingwiki.com/wiki/?curid=53558)
 * [Sparkle Zero](https://www.pcgamingwiki.com/wiki/?curid=44158)
 * [Sparkour](https://www.pcgamingwiki.com/wiki/?curid=39560)
+* [Sparky Marky Online: Do you see Sparky?](https://www.pcgamingwiki.com/wiki/?curid=195364)
 * [Sparky Marky: Episode 1](https://www.pcgamingwiki.com/wiki/?curid=195356)
 * [Sparky Marky: Episode 2](https://www.pcgamingwiki.com/wiki/?curid=195359)
 * [Sparky Marky: Episode 3](https://www.pcgamingwiki.com/wiki/?curid=195361)
