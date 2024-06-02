@@ -13867,7 +13867,6 @@
 * [Half Dead 3](https://www.pcgamingwiki.com/wiki/?curid=194565)
 * [Half Past Disaster](https://www.pcgamingwiki.com/wiki/?curid=72869)
 * [Half Past Impossible](https://www.pcgamingwiki.com/wiki/?curid=77269)
-* [Half Sword](https://www.pcgamingwiki.com/wiki/?curid=190699)
 * [Half-Earth Socialism](https://www.pcgamingwiki.com/wiki/?curid=180126)
 * [Half-Life (SteamPipe)](https://www.pcgamingwiki.com/wiki/?curid=176027)
 * [Half-Life (WON)](https://www.pcgamingwiki.com/wiki/?curid=180252)
