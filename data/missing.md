@@ -6091,6 +6091,7 @@
 * [Close Your Eyes](https://www.pcgamingwiki.com/wiki/?curid=38307)
 * [Close Your Eyes: Anniversary Remake](https://www.pcgamingwiki.com/wiki/?curid=69719)
 * [Closer Than You Think](https://www.pcgamingwiki.com/wiki/?curid=107696)
+* [Closer the Distance](https://www.pcgamingwiki.com/wiki/?curid=195431)
 * [Clothesline Carnage](https://www.pcgamingwiki.com/wiki/?curid=65859)
 * [Cloud Chamber](https://www.pcgamingwiki.com/wiki/?curid=18943)
 * [Cloud Chasers: Journey of Hope](https://www.pcgamingwiki.com/wiki/?curid=88148)
