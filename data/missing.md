@@ -18464,7 +18464,6 @@
 * [Love Hentai: Sexy Body](https://www.pcgamingwiki.com/wiki/?curid=112560)
 * [Love In Drawing](https://www.pcgamingwiki.com/wiki/?curid=123613)
 * [Love in the Limelight](https://www.pcgamingwiki.com/wiki/?curid=145912)
-* [Love Is All Around](https://www.pcgamingwiki.com/wiki/?curid=193103)
 * [Love Is Blind: Mutants](https://www.pcgamingwiki.com/wiki/?curid=44142)
 * [Love Is In The Space](https://www.pcgamingwiki.com/wiki/?curid=138779)
 * [Love Language Japanese](https://www.pcgamingwiki.com/wiki/?curid=112948)
