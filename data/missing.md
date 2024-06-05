@@ -9824,6 +9824,7 @@
 * [Echoes of the Past: The Kingdom of Despair](https://www.pcgamingwiki.com/wiki/?curid=42167)
 * [Echoes of the Past: The Revenge of the Witch](https://www.pcgamingwiki.com/wiki/?curid=42800)
 * [Echoes of the Past: Wolf Healer](https://www.pcgamingwiki.com/wiki/?curid=95449)
+* [Echoes of the Plum Grove](https://www.pcgamingwiki.com/wiki/?curid=195455)
 * [Echoes of War: The Last Heartbeat](https://www.pcgamingwiki.com/wiki/?curid=102409)
 * [Echoes World](https://www.pcgamingwiki.com/wiki/?curid=121163)
 * [Echoes+](https://www.pcgamingwiki.com/wiki/?curid=37666)
