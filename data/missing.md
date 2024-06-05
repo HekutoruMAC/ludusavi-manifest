@@ -33437,6 +33437,7 @@
 * [Tiny Snow](https://www.pcgamingwiki.com/wiki/?curid=128140)
 * [Tiny Tales: Heart of the Forest](https://www.pcgamingwiki.com/wiki/?curid=65630)
 * [Tiny Tanks](https://www.pcgamingwiki.com/wiki/?curid=94427)
+* [Tiny Terry's Turbo Trip](https://www.pcgamingwiki.com/wiki/?curid=195452)
 * [Tiny Thief (2017)](https://www.pcgamingwiki.com/wiki/?curid=66493)
 * [Tiny Toast](https://www.pcgamingwiki.com/wiki/?curid=57420)
 * [Tiny Toon Adventures: Buster and the Beanstalk](https://www.pcgamingwiki.com/wiki/?curid=126702)
