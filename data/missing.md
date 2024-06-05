@@ -25349,6 +25349,7 @@
 * [Renegade](https://www.pcgamingwiki.com/wiki/?curid=176006)
 * [Renegade Grounds: Episode 1](https://www.pcgamingwiki.com/wiki/?curid=68410)
 * [Renegade Grounds: Episode 2](https://www.pcgamingwiki.com/wiki/?curid=155945)
+* [Rennsport](https://www.pcgamingwiki.com/wiki/?curid=195459)
 * [Renoir](https://www.pcgamingwiki.com/wiki/?curid=39414)
 * [Rent-a-Hero](https://www.pcgamingwiki.com/wiki/?curid=195295)
 * [Rent-a-Vice](https://www.pcgamingwiki.com/wiki/?curid=93938)
