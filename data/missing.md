@@ -32948,7 +32948,6 @@
 * [The Walk](https://www.pcgamingwiki.com/wiki/?curid=41519)
 * [The Walking Dead Onslaught](https://www.pcgamingwiki.com/wiki/?curid=137024)
 * [The Walking Dead: Betrayal](https://www.pcgamingwiki.com/wiki/?curid=190701)
-* [The Walking Dead: Destinies](https://www.pcgamingwiki.com/wiki/?curid=191632)
 * [The Walking Dead: Saints & Sinners - Chapter 2: Retribution](https://www.pcgamingwiki.com/wiki/?curid=181805)
 * [The Walking Evil](https://www.pcgamingwiki.com/wiki/?curid=156899)
 * [The Walking Vegetables](https://www.pcgamingwiki.com/wiki/?curid=70204)
