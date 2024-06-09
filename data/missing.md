@@ -29278,7 +29278,6 @@
 * [Star Rage VR](https://www.pcgamingwiki.com/wiki/?curid=72250)
 * [Star Rangers (2017)](https://www.pcgamingwiki.com/wiki/?curid=42551)
 * [Star Rangers VR](https://www.pcgamingwiki.com/wiki/?curid=69661)
-* [Star Realms](https://www.pcgamingwiki.com/wiki/?curid=44237)
 * [Star Rogue](https://www.pcgamingwiki.com/wiki/?curid=44746)
 * [Star Saga One: Rise of the Dominators](https://www.pcgamingwiki.com/wiki/?curid=79818)
 * [Star Saviors](https://www.pcgamingwiki.com/wiki/?curid=34777)
