@@ -4813,7 +4813,6 @@
 * [BUS SIMULATOR](https://www.pcgamingwiki.com/wiki/?curid=150285)
 * [Bus Simulator 16](https://www.pcgamingwiki.com/wiki/?curid=44357)
 * [Bus Simulator 2012](https://www.pcgamingwiki.com/wiki/?curid=40510)
-* [Bus Simulator 21](https://www.pcgamingwiki.com/wiki/?curid=170899)
 * [Bus Tycoon ND (Night and Day)](https://www.pcgamingwiki.com/wiki/?curid=41513)
 * [Bushiden](https://www.pcgamingwiki.com/wiki/?curid=130787)
 * [Business Clicker](https://www.pcgamingwiki.com/wiki/?curid=79202)
