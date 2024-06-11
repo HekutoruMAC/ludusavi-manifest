@@ -21494,6 +21494,7 @@
 * [Nightmare Farm](https://www.pcgamingwiki.com/wiki/?curid=148159)
 * [Nightmare Game (噩梦游戏)](https://www.pcgamingwiki.com/wiki/?curid=140820)
 * [Nightmare Grotto](https://www.pcgamingwiki.com/wiki/?curid=62536)
+* [Nightmare Kart](https://www.pcgamingwiki.com/wiki/?curid=195599)
 * [Nightmare Ned](https://www.pcgamingwiki.com/wiki/?curid=190139)
 * [Nightmare of Melanie](https://www.pcgamingwiki.com/wiki/?curid=105027)
 * [Nightmare on Azathoth](https://www.pcgamingwiki.com/wiki/?curid=45830)
