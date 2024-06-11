@@ -11555,7 +11555,6 @@
 * [FIRMA](https://www.pcgamingwiki.com/wiki/?curid=53419)
 * [Firmament Wars](https://www.pcgamingwiki.com/wiki/?curid=96251)
 * [Firon](https://www.pcgamingwiki.com/wiki/?curid=128286)
-* [First Class Trouble](https://www.pcgamingwiki.com/wiki/?curid=145546)
 * [First Customer](https://www.pcgamingwiki.com/wiki/?curid=139118)
 * [First Day](https://www.pcgamingwiki.com/wiki/?curid=136491)
 * [First Day: Home Defender](https://www.pcgamingwiki.com/wiki/?curid=156398)
