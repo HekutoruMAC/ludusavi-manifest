@@ -34594,6 +34594,7 @@
 * [Ultratank](https://www.pcgamingwiki.com/wiki/?curid=140861)
 * [Ultrawings Flat](https://www.pcgamingwiki.com/wiki/?curid=124415)
 * [Ultraworld Exodus](https://www.pcgamingwiki.com/wiki/?curid=49177)
+* [Ultreïa - Night of the Eclipse](https://www.pcgamingwiki.com/wiki/?curid=195681)
 * [Ulxrd](https://www.pcgamingwiki.com/wiki/?curid=102287)
 * [Ulysses and the Golden Fleece](https://www.pcgamingwiki.com/wiki/?curid=147157)
 * [UMA-War VR](https://www.pcgamingwiki.com/wiki/?curid=56050)
