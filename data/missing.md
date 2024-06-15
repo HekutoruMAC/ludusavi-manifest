@@ -71,6 +71,7 @@
 * [101 Ways to Die](https://www.pcgamingwiki.com/wiki/?curid=44098)
 * [1010](https://www.pcgamingwiki.com/wiki/?curid=77982)
 * [101010](https://www.pcgamingwiki.com/wiki/?curid=149219)
+* [1½ Ritter: Auf der Suche nach der hinreißenden Herzelinde](https://www.pcgamingwiki.com/wiki/?curid=195713)
 * [112th Seed](https://www.pcgamingwiki.com/wiki/?curid=176829)
 * [1166](https://www.pcgamingwiki.com/wiki/?curid=56687)
 * [11th Dream](https://www.pcgamingwiki.com/wiki/?curid=135502)
