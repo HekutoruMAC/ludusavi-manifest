@@ -27444,7 +27444,6 @@
 * [Shiki](https://www.pcgamingwiki.com/wiki/?curid=150279)
 * [Shimmer](https://www.pcgamingwiki.com/wiki/?curid=104905)
 * [Shin Koihime Musou: Otome Taisen Sangokushi Engi](https://www.pcgamingwiki.com/wiki/?curid=168126)
-* [Shin Megami Tensei V: Vengeance](https://www.pcgamingwiki.com/wiki/?curid=193343)
 * [Shin Samurai Jazz](https://www.pcgamingwiki.com/wiki/?curid=48459)
 * [Shine's Adventures 2 (Zombie Attack)](https://www.pcgamingwiki.com/wiki/?curid=140795)
 * [Shine's Adventures 3 (Sea Fight)](https://www.pcgamingwiki.com/wiki/?curid=155620)
