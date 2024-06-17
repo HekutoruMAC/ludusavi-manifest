@@ -13166,7 +13166,6 @@
 * [Goblet of Maya](https://www.pcgamingwiki.com/wiki/?curid=54999)
 * [Gobligeddon](https://www.pcgamingwiki.com/wiki/?curid=144184)
 * [Goblin and Coins II](https://www.pcgamingwiki.com/wiki/?curid=136084)
-* [Goblin Cleanup](https://www.pcgamingwiki.com/wiki/?curid=195755)
 * [Goblin Gearshop](https://www.pcgamingwiki.com/wiki/?curid=79342)
 * [Goblin Harvest - The Mighty Quest](https://www.pcgamingwiki.com/wiki/?curid=58793)
 * [Goblin Quest: Escape!](https://www.pcgamingwiki.com/wiki/?curid=129847)
