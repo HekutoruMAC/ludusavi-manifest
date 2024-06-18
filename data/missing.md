@@ -654,6 +654,7 @@
 * [Accurate Segmentation 3](https://www.pcgamingwiki.com/wiki/?curid=120699)
 * [AccuRC 2](https://www.pcgamingwiki.com/wiki/?curid=64793)
 * [ACE Academy](https://www.pcgamingwiki.com/wiki/?curid=37189)
+* [Ace Attorney Investigations Collection](https://www.pcgamingwiki.com/wiki/?curid=195816)
 * [Ace In Space](https://www.pcgamingwiki.com/wiki/?curid=156742)
 * [Ace Meerkats](https://www.pcgamingwiki.com/wiki/?curid=121607)
 * [Ace of Protectors](https://www.pcgamingwiki.com/wiki/?curid=35184)
