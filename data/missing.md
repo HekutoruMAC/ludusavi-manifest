@@ -2522,6 +2522,7 @@
 * [Audition Online](https://www.pcgamingwiki.com/wiki/?curid=36469)
 * [Auf Abwegen](https://www.pcgamingwiki.com/wiki/?curid=129661)
 * [Aufschwung Ost](https://www.pcgamingwiki.com/wiki/?curid=25871)
+* [Aura II: The Sacred Rings](https://www.pcgamingwiki.com/wiki/?curid=195814)
 * [Aura of Worlds](https://www.pcgamingwiki.com/wiki/?curid=92626)
 * [Aura Shift](https://www.pcgamingwiki.com/wiki/?curid=144164)
 * [Auri's Tales](https://www.pcgamingwiki.com/wiki/?curid=123888)
