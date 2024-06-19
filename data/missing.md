@@ -29661,7 +29661,6 @@
 * [Still Alive](https://www.pcgamingwiki.com/wiki/?curid=157191)
 * [Still Dark At Dawn](https://www.pcgamingwiki.com/wiki/?curid=122710)
 * [Still Not Dead](https://www.pcgamingwiki.com/wiki/?curid=64240)
-* [Still Wakes the Deep](https://www.pcgamingwiki.com/wiki/?curid=195818)
 * [Stilt Fella](https://www.pcgamingwiki.com/wiki/?curid=150844)
 * [Stinky Snake](https://www.pcgamingwiki.com/wiki/?curid=96039)
 * [Stirring Abyss](https://www.pcgamingwiki.com/wiki/?curid=162156)
