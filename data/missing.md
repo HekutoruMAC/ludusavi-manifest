@@ -8003,6 +8003,7 @@
 * [Deathlands](https://www.pcgamingwiki.com/wiki/?curid=74263)
 * [Deathless Dungeon](https://www.pcgamingwiki.com/wiki/?curid=135724)
 * [Deathless: The City's Thirst](https://www.pcgamingwiki.com/wiki/?curid=45924)
+* [Deathless. Tales of Old Rus](https://www.pcgamingwiki.com/wiki/?curid=195834)
 * [Deathlike: Awakening](https://www.pcgamingwiki.com/wiki/?curid=55285)
 * [Deathly Storm: The Edge of Life](https://www.pcgamingwiki.com/wiki/?curid=87549)
 * [Deathly Survival](https://www.pcgamingwiki.com/wiki/?curid=73977)
