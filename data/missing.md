@@ -16955,6 +16955,7 @@
 * [Khospis](https://www.pcgamingwiki.com/wiki/?curid=112236)
 * [Khufu's Delivery Service](https://www.pcgamingwiki.com/wiki/?curid=79836)
 * [Kiai Resonance](https://www.pcgamingwiki.com/wiki/?curid=48116)
+* [KIBORG](https://www.pcgamingwiki.com/wiki/?curid=195865)
 * [KIBORG: Arena](https://www.pcgamingwiki.com/wiki/?curid=195863)
 * [Kick Ass Commandos](https://www.pcgamingwiki.com/wiki/?curid=37313)
 * [Kick Bot](https://www.pcgamingwiki.com/wiki/?curid=145485)
