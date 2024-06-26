@@ -25865,7 +25865,6 @@
 * [Rival Rampage](https://www.pcgamingwiki.com/wiki/?curid=75453)
 * [Rivalry](https://www.pcgamingwiki.com/wiki/?curid=44850)
 * [Rivals 2](https://www.pcgamingwiki.com/wiki/?curid=194858)
-* [Riven (2024)](https://www.pcgamingwiki.com/wiki/?curid=194551)
 * [River City Girls 2](https://www.pcgamingwiki.com/wiki/?curid=183006)
 * [River City Girls Zero](https://www.pcgamingwiki.com/wiki/?curid=177550)
 * [River City Melee Mach!!](https://www.pcgamingwiki.com/wiki/?curid=149043)
