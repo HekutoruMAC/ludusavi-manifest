@@ -1252,7 +1252,6 @@
 * [Alfelus](https://www.pcgamingwiki.com/wiki/?curid=151321)
 * [Alfonzo's Arctic Adventure](https://www.pcgamingwiki.com/wiki/?curid=150297)
 * [Alfred Hitchcock Presents: The Final Cut](https://www.pcgamingwiki.com/wiki/?curid=195284)
-* [Alfred Hitchcock: Vertigo](https://www.pcgamingwiki.com/wiki/?curid=169967)
 * [Algae](https://www.pcgamingwiki.com/wiki/?curid=104785)
 * [Alganon](https://www.pcgamingwiki.com/wiki/?curid=47861)
 * [Algorithm](https://www.pcgamingwiki.com/wiki/?curid=74131)
