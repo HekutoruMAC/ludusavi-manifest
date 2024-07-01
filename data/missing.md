@@ -17693,7 +17693,6 @@
 * [LCD Sports: American Football](https://www.pcgamingwiki.com/wiki/?curid=125924)
 * [Leaden Sky: Nightmares](https://www.pcgamingwiki.com/wiki/?curid=192579)
 * [Leaf](https://www.pcgamingwiki.com/wiki/?curid=132428)
-* [Leaflet Love Story](https://www.pcgamingwiki.com/wiki/?curid=104889)
 * [League Bowling](https://www.pcgamingwiki.com/wiki/?curid=168851)
 * [League of Evil](https://www.pcgamingwiki.com/wiki/?curid=38957)
 * [League of Gods](https://www.pcgamingwiki.com/wiki/?curid=53065)
