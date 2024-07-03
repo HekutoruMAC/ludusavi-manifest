@@ -34936,7 +34936,6 @@
 * [Urban Pirate](https://www.pcgamingwiki.com/wiki/?curid=33529)
 * [Urban riots](https://www.pcgamingwiki.com/wiki/?curid=144917)
 * [Urban Rivals](https://www.pcgamingwiki.com/wiki/?curid=72859)
-* [Urban Runner](https://www.pcgamingwiki.com/wiki/?curid=147019)
 * [Urban Trial Tricky Deluxe Edition](https://www.pcgamingwiki.com/wiki/?curid=170222)
 * [Urban War Defense](https://www.pcgamingwiki.com/wiki/?curid=65200)
 * [Urbek City Builder](https://www.pcgamingwiki.com/wiki/?curid=179786)
