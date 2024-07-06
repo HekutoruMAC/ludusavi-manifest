@@ -36522,7 +36522,7 @@
 * [Wish -tale of the sixteenth night of lunar month-](https://www.pcgamingwiki.com/wiki/?curid=36119)
 * [Wish Giver 偿愿人](https://www.pcgamingwiki.com/wiki/?curid=120773)
 * [Wish Project](https://www.pcgamingwiki.com/wiki/?curid=44030)
-* [Wishbone: Activity Zone](https://www.pcgamingwiki.com/wiki/?curid=193933)
+* [Wishbone Activity Zone](https://www.pcgamingwiki.com/wiki/?curid=193933)
 * [Wishmere](https://www.pcgamingwiki.com/wiki/?curid=45264)
 * [Wissen Heroes](https://www.pcgamingwiki.com/wiki/?curid=149376)
 * [Witan](https://www.pcgamingwiki.com/wiki/?curid=42418)
