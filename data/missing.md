@@ -12491,6 +12491,7 @@
 * [G-Ball](https://www.pcgamingwiki.com/wiki/?curid=50190)
 * [G-Dino's Jungle Adventure](https://www.pcgamingwiki.com/wiki/?curid=94755)
 * [G-MODEアーカイブス 弾幕検定死験-大往生編-](https://www.pcgamingwiki.com/wiki/?curid=194514)
+* [G-Sector](https://www.pcgamingwiki.com/wiki/?curid=196177)
 * [G.A.M.E.S](https://www.pcgamingwiki.com/wiki/?curid=141554)
 * [G.I. Joe: Operation Blackout](https://www.pcgamingwiki.com/wiki/?curid=189467)
 * [G.R.E.E.N. The Life Algorithm](https://www.pcgamingwiki.com/wiki/?curid=142052)
