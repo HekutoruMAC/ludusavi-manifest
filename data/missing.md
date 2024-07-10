@@ -30750,7 +30750,6 @@
 * [Tail Drift](https://www.pcgamingwiki.com/wiki/?curid=49428)
 * [TailQuest Defense](https://www.pcgamingwiki.com/wiki/?curid=94090)
 * [Tails](https://www.pcgamingwiki.com/wiki/?curid=41759)
-* [Tails of Iron](https://www.pcgamingwiki.com/wiki/?curid=171603)
 * [Tailwind](https://www.pcgamingwiki.com/wiki/?curid=65688)
 * [Tailypo: The Game](https://www.pcgamingwiki.com/wiki/?curid=141507)
 * [TailzFromTheGrave](https://www.pcgamingwiki.com/wiki/?curid=108344)
