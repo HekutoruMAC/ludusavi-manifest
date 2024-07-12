@@ -1667,7 +1667,6 @@
 * [Angels, Demons and Men](https://www.pcgamingwiki.com/wiki/?curid=104619)
 * [AngelShooter](https://www.pcgamingwiki.com/wiki/?curid=92029)
 * [Angelus Brand VR Experience](https://www.pcgamingwiki.com/wiki/?curid=121059)
-* [Anger Foot](https://www.pcgamingwiki.com/wiki/?curid=196333)
 * [AngerDark](https://www.pcgamingwiki.com/wiki/?curid=123503)
 * [Angle of Attack](https://www.pcgamingwiki.com/wiki/?curid=41246)
 * [Angler's Life](https://www.pcgamingwiki.com/wiki/?curid=141960)
