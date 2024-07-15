@@ -16233,7 +16233,6 @@
 * [Island Tribe 3](https://www.pcgamingwiki.com/wiki/?curid=90912)
 * [Island Tribe 4](https://www.pcgamingwiki.com/wiki/?curid=77638)
 * [Island Tribe 5](https://www.pcgamingwiki.com/wiki/?curid=80324)
-* [Islands of Insight](https://www.pcgamingwiki.com/wiki/?curid=193192)
 * [Islands: Non-Places](https://www.pcgamingwiki.com/wiki/?curid=52322)
 * [Isle in the Sky](https://www.pcgamingwiki.com/wiki/?curid=63472)
 * [Isle of Dinosaurs 2D](https://www.pcgamingwiki.com/wiki/?curid=151539)
