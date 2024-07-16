@@ -12885,7 +12885,6 @@
 * [German Fortress 3D](https://www.pcgamingwiki.com/wiki/?curid=64276)
 * [Germination](https://www.pcgamingwiki.com/wiki/?curid=90320)
 * [Gerty: Robots in Love](https://www.pcgamingwiki.com/wiki/?curid=50942)
-* [Gestalt: Steam & Cinder](https://www.pcgamingwiki.com/wiki/?curid=165421)
 * [Get Achievements for Achievements](https://www.pcgamingwiki.com/wiki/?curid=175033)
 * [Get Carnage!!!](https://www.pcgamingwiki.com/wiki/?curid=59411)
 * [Get Dis Money](https://www.pcgamingwiki.com/wiki/?curid=80665)
