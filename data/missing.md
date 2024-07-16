@@ -25601,7 +25601,7 @@
 * [RetroMania Wrestling](https://www.pcgamingwiki.com/wiki/?curid=166928)
 * [RetroMaze](https://www.pcgamingwiki.com/wiki/?curid=93194)
 * [RetroVamp](https://www.pcgamingwiki.com/wiki/?curid=153039)
-* [Retrowave](https://www.pcgamingwiki.com/wiki/?curid=170512)
+* [Retrowave World](https://www.pcgamingwiki.com/wiki/?curid=196437)
 * [RETSNOM](https://www.pcgamingwiki.com/wiki/?curid=47162)
 * [Return Home](https://www.pcgamingwiki.com/wiki/?curid=130484)
 * [Return Null - Episode 1](https://www.pcgamingwiki.com/wiki/?curid=48292)
