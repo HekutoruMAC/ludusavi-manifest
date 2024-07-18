@@ -9767,6 +9767,7 @@
 * [E06-Anomaly](https://www.pcgamingwiki.com/wiki/?curid=136718)
 * [E3.14CENTER](https://www.pcgamingwiki.com/wiki/?curid=123460)
 * [EA Sports FC 24](https://www.pcgamingwiki.com/wiki/?curid=189794)
+* [EA Sports FC 25](https://www.pcgamingwiki.com/wiki/?curid=196469)
 * [EA Sports PGA Tour](https://www.pcgamingwiki.com/wiki/?curid=186345)
 * [Eador: Imperium](https://www.pcgamingwiki.com/wiki/?curid=42734)
 * [Eagle Flight](https://www.pcgamingwiki.com/wiki/?curid=52003)
