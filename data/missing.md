@@ -35049,6 +35049,7 @@
 * [Vampire Legends: The True Story of Kisilova](https://www.pcgamingwiki.com/wiki/?curid=38244)
 * [Vampire of the Sands](https://www.pcgamingwiki.com/wiki/?curid=47215)
 * [Vampire Slave 1: A Yaoi Visual Novel](https://www.pcgamingwiki.com/wiki/?curid=179000)
+* [Vampire Therapist](https://www.pcgamingwiki.com/wiki/?curid=196471)
 * [Vampire: The Masquerade - Bloodlines 2](https://www.pcgamingwiki.com/wiki/?curid=131333)
 * [Vampire: The Masquerade - Justice](https://www.pcgamingwiki.com/wiki/?curid=193164)
 * [Vampire: The Masquerade - Out for Blood](https://www.pcgamingwiki.com/wiki/?curid=161616)
