@@ -19641,6 +19641,7 @@
 * [Metal Slug Collection PC](https://www.pcgamingwiki.com/wiki/?curid=140399)
 * [Metal Slug Tactics](https://www.pcgamingwiki.com/wiki/?curid=169164)
 * [METAL SLUG XX](https://www.pcgamingwiki.com/wiki/?curid=127543)
+* [Metal Slug: Awakening](https://www.pcgamingwiki.com/wiki/?curid=196515)
 * [Metal Soldiers 2](https://www.pcgamingwiki.com/wiki/?curid=77102)
 * [Metal Suit Warrior VR](https://www.pcgamingwiki.com/wiki/?curid=132040)
 * [METAL SUITS](https://www.pcgamingwiki.com/wiki/?curid=195639)
