@@ -8534,7 +8534,6 @@
 * [Die 4te Offenbarung](https://www.pcgamingwiki.com/wiki/?curid=39197)
 * [Die Already](https://www.pcgamingwiki.com/wiki/?curid=131986)
 * [Die Bloody Nazi Die!](https://www.pcgamingwiki.com/wiki/?curid=134484)
-* [Die by the Blade](https://www.pcgamingwiki.com/wiki/?curid=151042)
 * [Die Drei ??? - Geheimnis der Schattenhelden](https://www.pcgamingwiki.com/wiki/?curid=77986)
 * [Die drei ??? - Rätsel aus der Geisterwelt](https://www.pcgamingwiki.com/wiki/?curid=87970)
 * [Die drei ??? und der Riesenkrake](https://www.pcgamingwiki.com/wiki/?curid=87972)
