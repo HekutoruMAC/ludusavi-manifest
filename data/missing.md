@@ -26779,7 +26779,6 @@
 * [Sands of Aura](https://www.pcgamingwiki.com/wiki/?curid=172394)
 * [Sands of Fire](https://www.pcgamingwiki.com/wiki/?curid=167651)
 * [Sandstorm](https://www.pcgamingwiki.com/wiki/?curid=52991)
-* [Sandwalkers](https://www.pcgamingwiki.com/wiki/?curid=171051)
 * [Sandwich Sudoku](https://www.pcgamingwiki.com/wiki/?curid=141278)
 * [Sandy Path](https://www.pcgamingwiki.com/wiki/?curid=102911)
 * [Sango Fighter 2](https://www.pcgamingwiki.com/wiki/?curid=143384)
