@@ -20564,7 +20564,6 @@
 * [MTB Downhill Simulator](https://www.pcgamingwiki.com/wiki/?curid=42864)
 * [MU Legend](https://www.pcgamingwiki.com/wiki/?curid=103963)
 * [Muay Thai Fighting](https://www.pcgamingwiki.com/wiki/?curid=99340)
-* [MUD Motocross World Championship](https://www.pcgamingwiki.com/wiki/?curid=40654)
 * [Muddledash](https://www.pcgamingwiki.com/wiki/?curid=99704)
 * [Muddy Heights 2](https://www.pcgamingwiki.com/wiki/?curid=43526)
 * [Muerte's Arena](https://www.pcgamingwiki.com/wiki/?curid=113400)
