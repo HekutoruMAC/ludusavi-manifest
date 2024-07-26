@@ -30705,6 +30705,7 @@
 * [TableTop Soccer](https://www.pcgamingwiki.com/wiki/?curid=43414)
 * [Tabletopia](https://www.pcgamingwiki.com/wiki/?curid=43929)
 * [Taboos: Flower](https://www.pcgamingwiki.com/wiki/?curid=155779)
+* [Tabula Rasa](https://www.pcgamingwiki.com/wiki/?curid=196625)
 * [Tachyon Project](https://www.pcgamingwiki.com/wiki/?curid=47265)
 * [Taco Gun](https://www.pcgamingwiki.com/wiki/?curid=93802)
 * [Taco Tom 2](https://www.pcgamingwiki.com/wiki/?curid=123996)
