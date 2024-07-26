@@ -32147,6 +32147,7 @@
 * [The jungle](https://www.pcgamingwiki.com/wiki/?curid=70601)
 * [The Jungle Book](https://www.pcgamingwiki.com/wiki/?curid=79093)
 * [The Kaiju Offensive](https://www.pcgamingwiki.com/wiki/?curid=134845)
+* [The Karate Kid: Street Rumble](https://www.pcgamingwiki.com/wiki/?curid=196623)
 * [The Karters](https://www.pcgamingwiki.com/wiki/?curid=39384)
 * [The Keepers of Pages: Chevengur](https://www.pcgamingwiki.com/wiki/?curid=122802)
 * [The Killbox: Arena Combat](https://www.pcgamingwiki.com/wiki/?curid=73673)
