@@ -6679,6 +6679,7 @@
 * [Counter-Strike Online](https://www.pcgamingwiki.com/wiki/?curid=94224)
 * [Counter-Strike Online 2](https://www.pcgamingwiki.com/wiki/?curid=162639)
 * [Countermark Saga Frozen sword](https://www.pcgamingwiki.com/wiki/?curid=132762)
+* [Counterpick Labs](https://www.pcgamingwiki.com/wiki/?curid=196646)
 * [Countersnipe](https://www.pcgamingwiki.com/wiki/?curid=152665)
 * [Counterspell](https://www.pcgamingwiki.com/wiki/?curid=141596)
 * [Countless Rooms of Death](https://www.pcgamingwiki.com/wiki/?curid=48989)
