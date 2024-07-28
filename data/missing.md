@@ -14728,6 +14728,7 @@
 * [Hexodius](https://www.pcgamingwiki.com/wiki/?curid=40608)
 * [Hexogin](https://www.pcgamingwiki.com/wiki/?curid=156867)
 * [Hexon](https://www.pcgamingwiki.com/wiki/?curid=156141)
+* [HeXon](https://www.pcgamingwiki.com/wiki/?curid=196663)
 * [HexON (Minimol)](https://www.pcgamingwiki.com/wiki/?curid=153606)
 * [Hexopods](https://www.pcgamingwiki.com/wiki/?curid=75576)
 * [Hexoscope](https://www.pcgamingwiki.com/wiki/?curid=37299)
