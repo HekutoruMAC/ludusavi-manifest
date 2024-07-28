@@ -5056,6 +5056,7 @@
 * [CAPCOM GO! Apollo VR Planetarium](https://www.pcgamingwiki.com/wiki/?curid=141467)
 * [Capes](https://www.pcgamingwiki.com/wiki/?curid=181077)
 * [Capitalism](https://www.pcgamingwiki.com/wiki/?curid=11086)
+* [Capitalism Lab](https://www.pcgamingwiki.com/wiki/?curid=196661)
 * [Capitals](https://www.pcgamingwiki.com/wiki/?curid=180829)
 * [Capria: Magic of the Elements](https://www.pcgamingwiki.com/wiki/?curid=43787)
 * [CapRiders: Euro Soccer](https://www.pcgamingwiki.com/wiki/?curid=35244)
