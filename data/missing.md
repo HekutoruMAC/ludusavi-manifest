@@ -11166,6 +11166,7 @@
 * [Fariwalk: The Prelude](https://www.pcgamingwiki.com/wiki/?curid=75103)
 * [Farjob](https://www.pcgamingwiki.com/wiki/?curid=108416)
 * [Farkle Friends](https://www.pcgamingwiki.com/wiki/?curid=72326)
+* [Farlands](https://www.pcgamingwiki.com/wiki/?curid=196659)
 * [Farm Business](https://www.pcgamingwiki.com/wiki/?curid=122168)
 * [Farm Expert 2016](https://www.pcgamingwiki.com/wiki/?curid=47551)
 * [Farm Expert 2017](https://www.pcgamingwiki.com/wiki/?curid=37026)
