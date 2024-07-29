@@ -6487,7 +6487,6 @@
 * [Conquests of the Longbow: The Legend of Robin Hood](https://www.pcgamingwiki.com/wiki/?curid=131689)
 * [Conran - The dinky Raccoon](https://www.pcgamingwiki.com/wiki/?curid=61020)
 * [Conscious Existence - A Journey Within](https://www.pcgamingwiki.com/wiki/?curid=138851)
-* [Conscript](https://www.pcgamingwiki.com/wiki/?curid=165117)
 * [Conspiracy - KGB](https://www.pcgamingwiki.com/wiki/?curid=169069)
 * [Constance](https://www.pcgamingwiki.com/wiki/?curid=195987)
 * [Constellatio](https://www.pcgamingwiki.com/wiki/?curid=110804)
