@@ -2908,7 +2908,6 @@
 * [BALSA Model Flight Simulator](https://www.pcgamingwiki.com/wiki/?curid=122133)
 * [Balthazar's Dream](https://www.pcgamingwiki.com/wiki/?curid=56944)
 * [Bamboo EP](https://www.pcgamingwiki.com/wiki/?curid=54629)
-* [Banana](https://www.pcgamingwiki.com/wiki/?curid=195592)
 * [Banana Drama](https://www.pcgamingwiki.com/wiki/?curid=180092)
 * [Banana Girl](https://www.pcgamingwiki.com/wiki/?curid=103851)
 * [Banana Invaders](https://www.pcgamingwiki.com/wiki/?curid=144713)
