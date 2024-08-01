@@ -10064,6 +10064,7 @@
 * [Elf Epizode One](https://www.pcgamingwiki.com/wiki/?curid=125541)
 * [Elf Manor](https://www.pcgamingwiki.com/wiki/?curid=150970)
 * [Elf-World (Three Kingdoms)](https://www.pcgamingwiki.com/wiki/?curid=65047)
+* [Elin](https://www.pcgamingwiki.com/wiki/?curid=196719)
 * [Eliosi's Hunt](https://www.pcgamingwiki.com/wiki/?curid=39701)
 * [Elisa: Seduce the Innkeeper](https://www.pcgamingwiki.com/wiki/?curid=70505)
 * [Elisa: The Innkeeper](https://www.pcgamingwiki.com/wiki/?curid=57807)
