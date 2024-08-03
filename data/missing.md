@@ -36760,7 +36760,6 @@
 * [World of Feudal](https://www.pcgamingwiki.com/wiki/?curid=95262)
 * [World of Fishing](https://www.pcgamingwiki.com/wiki/?curid=33800)
 * [World of Golf](https://www.pcgamingwiki.com/wiki/?curid=51316)
-* [World of Goo 2](https://www.pcgamingwiki.com/wiki/?curid=192238)
 * [World of Guns: VR](https://www.pcgamingwiki.com/wiki/?curid=144341)
 * [World of Hex](https://www.pcgamingwiki.com/wiki/?curid=168274)
 * [World of Islands - Treasure Hunt](https://www.pcgamingwiki.com/wiki/?curid=98116)
