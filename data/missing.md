@@ -6556,7 +6556,6 @@
 * [Cooking Dash: DinerTown Studios](https://www.pcgamingwiki.com/wiki/?curid=194762)
 * [Cooking Live](https://www.pcgamingwiki.com/wiki/?curid=183181)
 * [Cooking Mama: Cuisine!](https://www.pcgamingwiki.com/wiki/?curid=178063)
-* [Cooking Simulator](https://www.pcgamingwiki.com/wiki/?curid=63365)
 * [Cooking Trip](https://www.pcgamingwiki.com/wiki/?curid=134538)
 * [Cooking Trip: Back on the Road](https://www.pcgamingwiki.com/wiki/?curid=140908)
 * [Cooking Witch](https://www.pcgamingwiki.com/wiki/?curid=62318)
