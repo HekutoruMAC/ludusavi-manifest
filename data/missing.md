@@ -6758,7 +6758,6 @@
 * [CrapsVR](https://www.pcgamingwiki.com/wiki/?curid=41817)
 * [Crash And Burn Racing](https://www.pcgamingwiki.com/wiki/?curid=49161)
 * [Crash Bandicoot](https://www.pcgamingwiki.com/wiki/?curid=194879)
-* [Crash Bandicoot: Back In Time](https://www.pcgamingwiki.com/wiki/?curid=188841)
 * [Crash Dive](https://www.pcgamingwiki.com/wiki/?curid=47379)
 * [Crash Drive 2](https://www.pcgamingwiki.com/wiki/?curid=47739)
 * [Crash Drive 3](https://www.pcgamingwiki.com/wiki/?curid=169853)
