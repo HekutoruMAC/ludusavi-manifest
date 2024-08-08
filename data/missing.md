@@ -7735,6 +7735,7 @@
 * [Data Thief](https://www.pcgamingwiki.com/wiki/?curid=73007)
 * [Dataflow](https://www.pcgamingwiki.com/wiki/?curid=123429)
 * [Datascape](https://www.pcgamingwiki.com/wiki/?curid=91598)
+* [Date A Live: Ren Dystopia](https://www.pcgamingwiki.com/wiki/?curid=196844)
 * [Date Write](https://www.pcgamingwiki.com/wiki/?curid=127514)
 * [Dath](https://www.pcgamingwiki.com/wiki/?curid=42311)
 * [Dating Life: Miley X Emily](https://www.pcgamingwiki.com/wiki/?curid=141901)
