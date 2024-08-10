@@ -19711,7 +19711,6 @@
 * [MGSLeisure1000](https://www.pcgamingwiki.com/wiki/?curid=58392)
 * [MHL](https://www.pcgamingwiki.com/wiki/?curid=157055)
 * [Miami Cruise](https://www.pcgamingwiki.com/wiki/?curid=103859)
-* [Miami Vice](https://www.pcgamingwiki.com/wiki/?curid=27712)
 * [Miaou Moon](https://www.pcgamingwiki.com/wiki/?curid=36161)
 * [Miasma Caves](https://www.pcgamingwiki.com/wiki/?curid=90608)
 * [Mibibli's Quest](https://www.pcgamingwiki.com/wiki/?curid=41837)
