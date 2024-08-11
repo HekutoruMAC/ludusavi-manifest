@@ -23081,6 +23081,7 @@
 * [Perdition](https://www.pcgamingwiki.com/wiki/?curid=143920)
 * [Pereulok: The Series](https://www.pcgamingwiki.com/wiki/?curid=73003)
 * [Perfect](https://www.pcgamingwiki.com/wiki/?curid=55021)
+* [Perfect Ace 2: The Championships](https://www.pcgamingwiki.com/wiki/?curid=196914)
 * [Perfect Angle](https://www.pcgamingwiki.com/wiki/?curid=45174)
 * [Perfect Angle VR](https://www.pcgamingwiki.com/wiki/?curid=33936)
 * [Perfect Crime](https://www.pcgamingwiki.com/wiki/?curid=132794)
