@@ -5103,7 +5103,6 @@
 * [Car Crash Couch Party](https://www.pcgamingwiki.com/wiki/?curid=80921)
 * [Car Crash Online](https://www.pcgamingwiki.com/wiki/?curid=102651)
 * [Car Demolition Clicker](https://www.pcgamingwiki.com/wiki/?curid=73649)
-* [Car Manufacture](https://www.pcgamingwiki.com/wiki/?curid=124458)
 * [Car Mechanic Flipper](https://www.pcgamingwiki.com/wiki/?curid=113016)
 * [Car Mechanic Manager](https://www.pcgamingwiki.com/wiki/?curid=46330)
 * [Car Mechanic Simulator VR](https://www.pcgamingwiki.com/wiki/?curid=139618)
