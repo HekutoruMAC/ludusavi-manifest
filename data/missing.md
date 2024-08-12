@@ -35982,7 +35982,6 @@
 * [WARRIOR SPIRIT (Pre-Alpha)](https://www.pcgamingwiki.com/wiki/?curid=157394)
 * [WarriOrb: Prologue](https://www.pcgamingwiki.com/wiki/?curid=153505)
 * [Warriors & Castles](https://www.pcgamingwiki.com/wiki/?curid=47435)
-* [Warriors All-Stars](https://www.pcgamingwiki.com/wiki/?curid=67268)
 * [Warriors of Ragnarök](https://www.pcgamingwiki.com/wiki/?curid=122336)
 * [Warriors of the Nile](https://www.pcgamingwiki.com/wiki/?curid=177467)
 * [Warriors of Vilvatikta](https://www.pcgamingwiki.com/wiki/?curid=36736)
