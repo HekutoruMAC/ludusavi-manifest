@@ -34738,6 +34738,7 @@
 * [Under](https://www.pcgamingwiki.com/wiki/?curid=145262)
 * [Under a Desert Sun](https://www.pcgamingwiki.com/wiki/?curid=57902)
 * [Under a Porcelain Sun](https://www.pcgamingwiki.com/wiki/?curid=89664)
+* [Under Defeat](https://www.pcgamingwiki.com/wiki/?curid=196956)
 * [Under Leaves](https://www.pcgamingwiki.com/wiki/?curid=60125)
 * [Under Night In-Birth Exe:Late](https://www.pcgamingwiki.com/wiki/?curid=37707)
 * [Under One Wing](https://www.pcgamingwiki.com/wiki/?curid=128228)
