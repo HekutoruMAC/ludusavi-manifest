@@ -30959,7 +30959,7 @@
 * [Tapper](https://www.pcgamingwiki.com/wiki/?curid=176523)
 * [TapRPG - Homeland](https://www.pcgamingwiki.com/wiki/?curid=95379)
 * [TapRPG 2 - The Second One](https://www.pcgamingwiki.com/wiki/?curid=105205)
-* [TAPSONIC BOLD](https://www.pcgamingwiki.com/wiki/?curid=114250)
+* [Tapsonic Bold](https://www.pcgamingwiki.com/wiki/?curid=114250)
 * [TapSonic World Champion VR](https://www.pcgamingwiki.com/wiki/?curid=96159)
 * [Taptiles](https://www.pcgamingwiki.com/wiki/?curid=125623)
 * [Taras Bulba and platforms of Hoolion](https://www.pcgamingwiki.com/wiki/?curid=68070)
