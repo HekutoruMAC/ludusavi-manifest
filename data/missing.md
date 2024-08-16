@@ -7894,7 +7894,6 @@
 * [Deadliest Catch: The Game](https://www.pcgamingwiki.com/wiki/?curid=124121)
 * [Deadliners](https://www.pcgamingwiki.com/wiki/?curid=65325)
 * [Deadlings: Rotten Edition](https://www.pcgamingwiki.com/wiki/?curid=49351)
-* [Deadlock](https://www.pcgamingwiki.com/wiki/?curid=197042)
 * [Deadlock (2016)](https://www.pcgamingwiki.com/wiki/?curid=41603)
 * [Deadly Animal Duel](https://www.pcgamingwiki.com/wiki/?curid=70301)
 * [Deadly Blue](https://www.pcgamingwiki.com/wiki/?curid=82367)
