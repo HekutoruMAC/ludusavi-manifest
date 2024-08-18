@@ -18644,7 +18644,6 @@
 * [Lula Flipper](https://www.pcgamingwiki.com/wiki/?curid=92460)
 * [Lula Virtual Babe](https://www.pcgamingwiki.com/wiki/?curid=92467)
 * [Lumak's Wraptiles](https://www.pcgamingwiki.com/wiki/?curid=68360)
-* [LumbearJack](https://www.pcgamingwiki.com/wiki/?curid=172745)
 * [Lumber Island - That Special Place](https://www.pcgamingwiki.com/wiki/?curid=46194)
 * [Lumber King](https://www.pcgamingwiki.com/wiki/?curid=67219)
 * [Lumberhill](https://www.pcgamingwiki.com/wiki/?curid=122868)
