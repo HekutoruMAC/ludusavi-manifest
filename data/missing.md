@@ -13933,6 +13933,7 @@
 * [Half-Life: Absolute Zero](https://www.pcgamingwiki.com/wiki/?curid=160590)
 * [Half-Life: Before](https://www.pcgamingwiki.com/wiki/?curid=176536)
 * [Half-Life: Crossfire](https://www.pcgamingwiki.com/wiki/?curid=197046)
+* [Half-Life: History of Kumertau](https://www.pcgamingwiki.com/wiki/?curid=197144)
 * [Half-Life: MMod](https://www.pcgamingwiki.com/wiki/?curid=185817)
 * [Half-Life: Restored](https://www.pcgamingwiki.com/wiki/?curid=161225)
 * [Half-Life: VR Mod](https://www.pcgamingwiki.com/wiki/?curid=196258)
