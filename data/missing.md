@@ -15188,6 +15188,7 @@
 * [House of Evil](https://www.pcgamingwiki.com/wiki/?curid=78190)
 * [House of Evil 2](https://www.pcgamingwiki.com/wiki/?curid=132150)
 * [House Of Golf](https://www.pcgamingwiki.com/wiki/?curid=155863)
+* [House of Golf 2](https://www.pcgamingwiki.com/wiki/?curid=197153)
 * [House of Hell](https://www.pcgamingwiki.com/wiki/?curid=44916)
 * [House of Nightmares B-Movie Edition](https://www.pcgamingwiki.com/wiki/?curid=48136)
 * [House Of Plague 0](https://www.pcgamingwiki.com/wiki/?curid=109216)
