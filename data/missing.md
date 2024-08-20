@@ -3717,7 +3717,6 @@
 * [Black Moon](https://www.pcgamingwiki.com/wiki/?curid=78766)
 * [Black My White](https://www.pcgamingwiki.com/wiki/?curid=70313)
 * [Black My White Again](https://www.pcgamingwiki.com/wiki/?curid=70317)
-* [Black Myth: Wukong](https://www.pcgamingwiki.com/wiki/?curid=162714)
 * [Black Office - Entertainment Department](https://www.pcgamingwiki.com/wiki/?curid=149981)
 * [Black Powder](https://www.pcgamingwiki.com/wiki/?curid=94328)
 * [Black Powder Red Earth](https://www.pcgamingwiki.com/wiki/?curid=145268)
