@@ -18866,7 +18866,6 @@
 * [Mage VR -Mini Version-](https://www.pcgamingwiki.com/wiki/?curid=125074)
 * [Mage VR: The Lost Memories](https://www.pcgamingwiki.com/wiki/?curid=129695)
 * [Magebuster: Amorous Augury](https://www.pcgamingwiki.com/wiki/?curid=145992)
-* [MageQuit](https://www.pcgamingwiki.com/wiki/?curid=56270)
 * [MageWorks](https://www.pcgamingwiki.com/wiki/?curid=42149)
 * [Maggie's Apartment](https://www.pcgamingwiki.com/wiki/?curid=65708)
 * [Maggie's Farmyard Adventure](https://www.pcgamingwiki.com/wiki/?curid=186454)
