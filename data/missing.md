@@ -23117,7 +23117,6 @@
 * [Perfect Fit - Totemland](https://www.pcgamingwiki.com/wiki/?curid=53196)
 * [Perfect Heist](https://www.pcgamingwiki.com/wiki/?curid=96063)
 * [Perfect Life VR](https://www.pcgamingwiki.com/wiki/?curid=121843)
-* [Perfect Memento of Touhou Question](https://www.pcgamingwiki.com/wiki/?curid=103665)
 * [Perfect Murder](https://www.pcgamingwiki.com/wiki/?curid=145111)
 * [Perfect Plan](https://www.pcgamingwiki.com/wiki/?curid=60251)
 * [Perfect Round Disc Golf](https://www.pcgamingwiki.com/wiki/?curid=137088)
