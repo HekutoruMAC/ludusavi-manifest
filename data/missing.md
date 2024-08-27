@@ -30776,6 +30776,7 @@
 * [Tahko Alpine Ski](https://www.pcgamingwiki.com/wiki/?curid=128077)
 * [Taiker](https://www.pcgamingwiki.com/wiki/?curid=41633)
 * [Taiko Frenzy](https://www.pcgamingwiki.com/wiki/?curid=197170)
+* [Taiko no Tatsujin: Rhythm Festival](https://www.pcgamingwiki.com/wiki/?curid=197330)
 * [Taiko Risshiden](https://www.pcgamingwiki.com/wiki/?curid=61443)
 * [Taiko Risshiden II](https://www.pcgamingwiki.com/wiki/?curid=191245)
 * [Taiko Risshiden III](https://www.pcgamingwiki.com/wiki/?curid=191247)
