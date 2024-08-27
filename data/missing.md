@@ -29453,7 +29453,6 @@
 * [Star Wars Eclipse](https://www.pcgamingwiki.com/wiki/?curid=173572)
 * [Star Wars Galaxies](https://www.pcgamingwiki.com/wiki/?curid=15405)
 * [Star Wars Math: Jabba's Game Galaxy](https://www.pcgamingwiki.com/wiki/?curid=171561)
-* [Star Wars Outlaws](https://www.pcgamingwiki.com/wiki/?curid=187901)
 * [Star Wars: Droid Repair Bay](https://www.pcgamingwiki.com/wiki/?curid=77553)
 * [Star Wars: Knights of the Old Republic – Remake](https://www.pcgamingwiki.com/wiki/?curid=171361)
 * [Star Wars: Trials on Tatooine](https://www.pcgamingwiki.com/wiki/?curid=35561)
