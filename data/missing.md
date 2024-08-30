@@ -13360,6 +13360,7 @@
 * [Gordon Streaman](https://www.pcgamingwiki.com/wiki/?curid=144702)
 * [Gorescript](https://www.pcgamingwiki.com/wiki/?curid=61554)
 * [Gorgeous Elves of Ganassa](https://www.pcgamingwiki.com/wiki/?curid=149730)
+* [Gori: Cuddly Carnage](https://www.pcgamingwiki.com/wiki/?curid=197400)
 * [Gorilla Tag](https://www.pcgamingwiki.com/wiki/?curid=189213)
 * [GORILLA TOWN](https://www.pcgamingwiki.com/wiki/?curid=156981)
 * [Gorilla Unko](https://www.pcgamingwiki.com/wiki/?curid=132337)
