@@ -29299,6 +29299,7 @@
 * [Squirrel Legacy](https://www.pcgamingwiki.com/wiki/?curid=156539)
 * [Squirrel Sphere](https://www.pcgamingwiki.com/wiki/?curid=88738)
 * [Squirrel Stapler](https://www.pcgamingwiki.com/wiki/?curid=192753)
+* [Squirrel with a Gun](https://www.pcgamingwiki.com/wiki/?curid=197395)
 * [Squirt's Adventure](https://www.pcgamingwiki.com/wiki/?curid=50604)
 * [Squish and the Corrupted Crystal](https://www.pcgamingwiki.com/wiki/?curid=65718)
 * [Squishies](https://www.pcgamingwiki.com/wiki/?curid=150962)
