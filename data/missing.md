@@ -30257,7 +30257,6 @@
 * [Super Lumi Live](https://www.pcgamingwiki.com/wiki/?curid=67288)
 * [Super Man Or Monster](https://www.pcgamingwiki.com/wiki/?curid=68496)
 * [Super Mario Bros. & Friends: When I Grow Up](https://www.pcgamingwiki.com/wiki/?curid=155077)
-* [Super Mario Unimaker](https://www.pcgamingwiki.com/wiki/?curid=197341)
 * [Super Markup Man](https://www.pcgamingwiki.com/wiki/?curid=41577)
 * [Super Meat Shooter](https://www.pcgamingwiki.com/wiki/?curid=76063)
 * [Super Mega Baseball 2](https://www.pcgamingwiki.com/wiki/?curid=57357)
