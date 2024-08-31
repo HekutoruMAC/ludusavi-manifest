@@ -3952,6 +3952,7 @@
 * [Blocksworld](https://www.pcgamingwiki.com/wiki/?curid=72213)
 * [Blockus' Adventures](https://www.pcgamingwiki.com/wiki/?curid=136607)
 * [Blockwick 2](https://www.pcgamingwiki.com/wiki/?curid=37166)
+* [Blocky Farm](https://www.pcgamingwiki.com/wiki/?curid=197404)
 * [Blocky McBlockFace](https://www.pcgamingwiki.com/wiki/?curid=125099)
 * [Blocky Snake](https://www.pcgamingwiki.com/wiki/?curid=114464)
 * [Blockz VS Ballz](https://www.pcgamingwiki.com/wiki/?curid=121389)
