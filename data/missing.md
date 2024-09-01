@@ -35444,7 +35444,6 @@
 * [Vision Runner](https://www.pcgamingwiki.com/wiki/?curid=40355)
 * [Vision Soft Reset](https://www.pcgamingwiki.com/wiki/?curid=125593)
 * [Visionarium](https://www.pcgamingwiki.com/wiki/?curid=125256)
-* [Visions of Mana](https://www.pcgamingwiki.com/wiki/?curid=192663)
 * [Visions of Zosimos](https://www.pcgamingwiki.com/wiki/?curid=69212)
 * [Visitor](https://www.pcgamingwiki.com/wiki/?curid=98764)
 * [Visitor2](https://www.pcgamingwiki.com/wiki/?curid=135769)
