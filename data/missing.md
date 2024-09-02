@@ -34870,6 +34870,7 @@
 * [Universally Loved](https://www.pcgamingwiki.com/wiki/?curid=103757)
 * [Universe 24](https://www.pcgamingwiki.com/wiki/?curid=132595)
 * [Universe Balancing Bureau](https://www.pcgamingwiki.com/wiki/?curid=81058)
+* [Universe For Sale](https://www.pcgamingwiki.com/wiki/?curid=197449)
 * [Universe in Fire](https://www.pcgamingwiki.com/wiki/?curid=58975)
 * [University Life](https://www.pcgamingwiki.com/wiki/?curid=75546)
 * [University Tycoon: 2019](https://www.pcgamingwiki.com/wiki/?curid=95081)
