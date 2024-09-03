@@ -30041,7 +30041,6 @@
 * [SUM](https://www.pcgamingwiki.com/wiki/?curid=102675)
 * [Sumer](https://www.pcgamingwiki.com/wiki/?curid=53706)
 * [Sumerian Blood: Gilgamesh against the Gods](https://www.pcgamingwiki.com/wiki/?curid=99268)
-* [Sumerian Six](https://www.pcgamingwiki.com/wiki/?curid=196128)
 * [Sumerians](https://www.pcgamingwiki.com/wiki/?curid=154301)
 * [Sumeru](https://www.pcgamingwiki.com/wiki/?curid=40418)
 * [Sumetrick](https://www.pcgamingwiki.com/wiki/?curid=80657)
