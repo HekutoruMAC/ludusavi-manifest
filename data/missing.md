@@ -8463,6 +8463,7 @@
 * [Devastator Arena](https://www.pcgamingwiki.com/wiki/?curid=102729)
 * [Devellage](https://www.pcgamingwiki.com/wiki/?curid=144085)
 * [Deviant Dungeon](https://www.pcgamingwiki.com/wiki/?curid=145974)
+* [DEVIATOR](https://www.pcgamingwiki.com/wiki/?curid=197471)
 * [Devil and the Fairy](https://www.pcgamingwiki.com/wiki/?curid=82639)
 * [Devil catching bees](https://www.pcgamingwiki.com/wiki/?curid=138707)
 * [Devil Engine](https://www.pcgamingwiki.com/wiki/?curid=113510)
