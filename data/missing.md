@@ -3362,7 +3362,6 @@
 * [Beer Pong VR](https://www.pcgamingwiki.com/wiki/?curid=87265)
 * [Beer Ranger](https://www.pcgamingwiki.com/wiki/?curid=82123)
 * [Beer, Babes and Dragons](https://www.pcgamingwiki.com/wiki/?curid=69667)
-* [Beer!](https://www.pcgamingwiki.com/wiki/?curid=81649)
 * [Beer'em Up](https://www.pcgamingwiki.com/wiki/?curid=120786)
 * [Beerd leaver](https://www.pcgamingwiki.com/wiki/?curid=95601)
 * [Beerman](https://www.pcgamingwiki.com/wiki/?curid=41860)
