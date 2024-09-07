@@ -30596,7 +30596,7 @@
 * [Switchblade (Lucid Games)](https://www.pcgamingwiki.com/wiki/?curid=107984)
 * [Switchcars](https://www.pcgamingwiki.com/wiki/?curid=37580)
 * [Switcher](https://www.pcgamingwiki.com/wiki/?curid=102325)
-* [SWOLLEN TO BURSTING UNTIL I AM DISAPPEARING ON PURPOSE](https://www.pcgamingwiki.com/wiki/?curid=193084)
+* [Swollen to Bursting Until I Am Disappearing On Purpose](https://www.pcgamingwiki.com/wiki/?curid=193084)
 * [Swoon! Earth Escape](https://www.pcgamingwiki.com/wiki/?curid=187594)
 * [Sword 'N' Board](https://www.pcgamingwiki.com/wiki/?curid=44766)
 * [Sword and Shield](https://www.pcgamingwiki.com/wiki/?curid=52866)
