@@ -10969,7 +10969,6 @@
 * [Fairies vs. Darklings: Arcane Edition](https://www.pcgamingwiki.com/wiki/?curid=44403)
 * [Fairly Certain Doom](https://www.pcgamingwiki.com/wiki/?curid=90536)
 * [Fairspace](https://www.pcgamingwiki.com/wiki/?curid=45968)
-* [Fairtravel Battle](https://www.pcgamingwiki.com/wiki/?curid=157331)
 * [Fairy Escape](https://www.pcgamingwiki.com/wiki/?curid=92775)
 * [Fairy Godmother Stories: Cinderella](https://www.pcgamingwiki.com/wiki/?curid=153042)
 * [Fairy in a Jar](https://www.pcgamingwiki.com/wiki/?curid=125585)
