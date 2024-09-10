@@ -37028,7 +37028,6 @@
 * [YAPP2: Yet Another Pushing Puzzler](https://www.pcgamingwiki.com/wiki/?curid=103221)
 * [YARBAY](https://www.pcgamingwiki.com/wiki/?curid=144637)
 * [Yargis - Space Melee](https://www.pcgamingwiki.com/wiki/?curid=47429)
-* [Yars Rising](https://www.pcgamingwiki.com/wiki/?curid=195588)
 * [Yars' Revenge](https://www.pcgamingwiki.com/wiki/?curid=181095)
 * [Yasai Ninja](https://www.pcgamingwiki.com/wiki/?curid=47192)
 * [YASG](https://www.pcgamingwiki.com/wiki/?curid=149722)
