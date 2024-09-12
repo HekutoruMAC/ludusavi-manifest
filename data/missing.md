@@ -34994,6 +34994,7 @@
 * [UTLL](https://www.pcgamingwiki.com/wiki/?curid=149789)
 * [Utopia](https://www.pcgamingwiki.com/wiki/?curid=137382)
 * [Utopia 9 - A Volatile Vacation](https://www.pcgamingwiki.com/wiki/?curid=43169)
+* [Utopia Must Fall](https://www.pcgamingwiki.com/wiki/?curid=197665)
 * [Uuu ska so smislom](https://www.pcgamingwiki.com/wiki/?curid=130137)
 * [Uventa](https://www.pcgamingwiki.com/wiki/?curid=108188)
 * [Uznali ? soglasnbI ?](https://www.pcgamingwiki.com/wiki/?curid=149570)
