@@ -31231,7 +31231,7 @@
 * [Tether](https://www.pcgamingwiki.com/wiki/?curid=126187)
 * [Tether Together](https://www.pcgamingwiki.com/wiki/?curid=132480)
 * [Tethered](https://www.pcgamingwiki.com/wiki/?curid=58439)
-* [Tetra Project - 原石计划](https://www.pcgamingwiki.com/wiki/?curid=139626)
+* [Tetra Project](https://www.pcgamingwiki.com/wiki/?curid=139626)
 * [Tetra's Escape](https://www.pcgamingwiki.com/wiki/?curid=104255)
 * [Tetradecagon](https://www.pcgamingwiki.com/wiki/?curid=42440)
 * [TetraLogical](https://www.pcgamingwiki.com/wiki/?curid=129781)
